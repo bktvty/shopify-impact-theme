@@ -374,12 +374,22 @@
             "title": "Week 3: Noticeable Recovery Shifts",
             "content": "<p>Recovery speeds up, and stress feels more manageable.</p><p><strong>What Vitalis Does:<br/></strong>Adaptogens, anti-inflammatories, and micronutrients begin optimizing cortisol rhythms, reducing systemic inflammation, and improving rest quality.</p>"
           }
+        },
+        "item_xApXFL": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Week 4: Performance Uplift",
+            "content": "<p>Physical and mental performance begin trending upward as your body enters a new rhythm.</p><p><strong>What Vitalis Does:<br/></strong>Your biomarkers start trending toward optimal, and you feel sharper, mor  energetic, and more in sync with your day.</p>"
+          }
         }
       },
       "block_order": [
         "item_A4AGeN",
         "item_akUpcp",
-        "item_pUJEcy"
+        "item_pUJEcy",
+        "item_xApXFL"
       ],
       "name": "Images and text scrolling",
       "settings": {
