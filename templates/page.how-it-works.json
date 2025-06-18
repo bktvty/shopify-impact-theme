@@ -414,26 +414,10 @@
             "title": "What Vitalis Does:",
             "content": "<p>We analyze nutrient levels, inflammation markers, hormone balance, and metabolic function to give you a clear picture of where your body stands. This becomes your foundation, the baseline we use to build your personalized supplement protocol.</p>"
           }
-        },
-        "item_cichnW": {
-          "type": "item",
-          "settings": {
-            "title": "Question 2",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
-        },
-        "item_pjAEXY": {
-          "type": "item",
-          "settings": {
-            "title": "Question 3",
-            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
-          }
         }
       },
       "block_order": [
-        "item_nqPUJr",
-        "item_cichnW",
-        "item_pjAEXY"
+        "item_nqPUJr"
       ],
       "name": "Accordion content",
       "settings": {
