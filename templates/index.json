@@ -574,29 +574,53 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Do I need to take a blood test?",
+            "content": "<p>Yes you have to.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "What makes Vitalis different?",
+            "content": "<p>100% personalized formulas based on biology not guesswork.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Can I change my formula?",
+            "content": "<p>Yes — we adapt it Quarterly to your updated data. Reach out to use if you feel like you need something more and we will work with you to further optimize your performance.</p>"
+          }
+        },
+        "item_XhHyE8": {
+          "type": "item",
+          "settings": {
+            "title": "Are the supplements clean?",
+            "content": "<p>Yes. No fillers, no artificial ingredients.</p>"
+          }
+        },
+        "item_RLi8Lq": {
+          "type": "item",
+          "settings": {
+            "title": "Is this safe with medication?",
+            "content": "<p>Yes, this is a product that is designed completely from all-natural components. However, we if you have any pre-existing medical conditions we recommend you check with your doctor before beginning your journey with us.</p>"
+          }
+        },
+        "item_zrrwGa": {
+          "type": "item",
+          "settings": {
+            "title": "Is it just for athletes?",
+            "content": "<p>Absolutely not — we believe everyone should have access to the type of high quality that allows professional athletes to optimize human performance. If you have a body, this is for you.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_XhHyE8",
+        "item_RLi8Lq",
+        "item_zrrwGa"
       ],
       "settings": {
         "full_width": false,
