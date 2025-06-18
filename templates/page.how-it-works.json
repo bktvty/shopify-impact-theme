@@ -131,10 +131,10 @@
         "overlay_opacity": 30
       }
     },
-    "rich_text_w7qF4A": {
+    "rich_text_HXVQbz": {
       "type": "rich-text",
       "blocks": {
-        "heading_UUVtFF": {
+        "heading_eFkqgg": {
           "type": "heading",
           "settings": {
             "text": "See What’s Improving, and What’s Not",
@@ -143,7 +143,7 @@
             "gradient": ""
           }
         },
-        "richtext_ccWGzK": {
+        "richtext_98HjzA": {
           "type": "richtext",
           "settings": {
             "content": "<p>Health is dynamic. We show you the trends, not just the results.</p>"
@@ -151,8 +151,8 @@
         }
       },
       "block_order": [
-        "heading_UUVtFF",
-        "richtext_ccWGzK"
+        "heading_eFkqgg",
+        "richtext_98HjzA"
       ],
       "name": "Rich text",
       "settings": {
@@ -164,10 +164,10 @@
         "text_color": ""
       }
     },
-    "rich_text_4KbUU9": {
+    "rich_text_CDytE7": {
       "type": "rich-text",
       "blocks": {
-        "heading_mD8XYW": {
+        "heading_yrMKbj": {
           "type": "heading",
           "settings": {
             "text": "What Vitalis Does:",
@@ -176,7 +176,7 @@
             "gradient": ""
           }
         },
-        "richtext_7pMibU": {
+        "richtext_FB8DBz": {
           "type": "richtext",
           "settings": {
             "content": "<p>Delivers clear reports that highlight improvements, plateaus, and areas needing more support, so your plan always stays relevant.</p>"
@@ -184,8 +184,8 @@
         }
       },
       "block_order": [
-        "heading_mD8XYW",
-        "richtext_7pMibU"
+        "heading_yrMKbj",
+        "richtext_FB8DBz"
       ],
       "name": "Rich text",
       "settings": {
@@ -244,6 +244,72 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 30
+      }
+    },
+    "rich_text_w7qF4A": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UUVtFF": {
+          "type": "heading",
+          "settings": {
+            "text": "Know the ‘Why’ Behind Every Capsule",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ccWGzK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>No blind supplementation. No generic stacks</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UUVtFF",
+        "richtext_ccWGzK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_4KbUU9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mD8XYW": {
+          "type": "heading",
+          "settings": {
+            "text": "What Vitalis Does:",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_7pMibU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Links every ingredient in your formula to a specific outcome or blood marker in your blood, so you understand exactly what each capsule is doing, and why.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mD8XYW",
+        "richtext_7pMibU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "#0f3d63",
+        "background_gradient": "",
+        "text_color": "#ffffff"
       }
     },
     "images_with_text_scrolling_RfMNda": {
@@ -380,9 +446,11 @@
     "main",
     "rich_text_phJxRj",
     "video_RJAq9y",
+    "rich_text_HXVQbz",
+    "rich_text_CDytE7",
+    "video_zzXBEN",
     "rich_text_w7qF4A",
     "rich_text_4KbUU9",
-    "video_zzXBEN",
     "images_with_text_scrolling_RfMNda",
     "rich_text_74qmhJ",
     "17502766548677cb7b"
