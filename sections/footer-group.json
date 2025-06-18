@@ -81,7 +81,7 @@
         "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(15, 61, 99, 0.51) 100%)",
         "text_color": ""
       }
     },
