@@ -75,8 +75,8 @@
             "image": "shopify://shop_images/Mock_Home02.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Your full health profile — unlocked",
+            "content": "<p>We design performance-enhancing supplements based on your biomarkers, not trends or generic formulas. Every capsule is backed by clinical data and built to target what’s holding you back.</p>"
           }
         }
       },
@@ -194,7 +194,7 @@
             "image": "shopify://shop_images/IMG-20250524-WA0009.jpg",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 1",
+            "title": "Precision Formulation",
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         },
