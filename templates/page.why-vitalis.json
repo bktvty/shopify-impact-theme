@@ -63,13 +63,13 @@
         "subheading_jpmRWn": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "Introducing"
           }
         },
         "heading_bh8UAG": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Vitalis",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -78,7 +78,7 @@
         "richtext_VTmVRQ": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>All-new ways to unlock better health, performance, and longevity, powered by your biology.</p><p><br/>We’ve redefined what personalized health looks like. With deeper diagnostics, smarter supplement protocols, and real-time adaptation based on your blood work, Vitalis is your next-level system for:<br/><br/></p><p>●     Smarter Health Insights – driven by advanced biomarker tracking</p><p>●     Even More Precise Supplementation – down to the milligram</p><p>●     Dynamic Progress Tracking – see how your biology evolves</p><p>●     Adaptive Formulas – updated with every test and every change in your lifestyle</p>"
           }
         }
       },
@@ -91,7 +91,7 @@
       "settings": {
         "full_width": true,
         "content_width": "small",
-        "text_position": "center",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": ""
