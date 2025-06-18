@@ -89,10 +89,10 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
+        "full_width": false,
+        "content_width": "medium",
         "text_position": "start",
-        "background": "",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
       }
@@ -104,7 +104,7 @@
         "image": "shopify://shop_images/science-beaker-and-pipette.jpg",
         "subheading": "",
         "title": "Get Guided Toward Your Goals",
-        "background": "",
+        "background": "#f5f5f5",
         "text_color_inside": "#ffffff",
         "text_color_outside": "#0f3d63"
       }
@@ -131,11 +131,11 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
-        "content_width": "small",
+        "full_width": false,
+        "content_width": "medium",
         "text_position": "start",
-        "background": "",
-        "background_gradient": "",
+        "background": "#f5f5f5",
+        "background_gradient": "linear-gradient(180deg, rgba(245, 245, 245, 1), rgba(255, 255, 255, 1) 100%)",
         "text_color": ""
       }
     }
