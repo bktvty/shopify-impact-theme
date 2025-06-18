@@ -96,11 +96,55 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "revealed_image_on_scroll_HKyyef": {
+      "type": "revealed-image-on-scroll",
+      "name": "Revealed image on scroll",
+      "settings": {
+        "image": "shopify://shop_images/science-beaker-and-pipette.jpg",
+        "subheading": "",
+        "title": "Get Guided Toward Your Goals",
+        "background": "",
+        "text_color_inside": "#ffffff",
+        "text_color_outside": "#0f3d63"
+      }
+    },
+    "rich_text_3JrDAA": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_PqkR3h": {
+          "type": "subheading",
+          "settings": {
+            "text": "Get Guided Toward Your Goals"
+          }
+        },
+        "richtext_EyG3tC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Your biology/physiology sets the direction. Vitalis gives you the roadmap.</p><p>Whether you're optimizing sleep, boosting performance, increasing focus, or improving recovery, Vitalis doesn’t just supplement you… it guides you.</p><p></p><h3><strong>Goal-Driven Protocols</strong></h3><p>Set your focus,<br/>mental sharpness, hormonal balance, energy, or longevity, and we’ll calibrate<br/>your supplement plan accordingly.</p><h3><strong> </strong></h3><h3><strong>Personalized, Actionable<br/>Adjustments</strong></h3><p>Your lab results<br/>shape specific behavioral recommendations, from stress reduction tactics to<br/>nutrient timing, all backed by clinical science.</p><h3><strong> </strong></h3><h3><strong>Live Tracking.<br/>Real Progress.</strong></h3><p>As your body<br/>responds, we adjust your protocol to make sure you’re not just taking pills,<br/>you’re moving forward.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_PqkR3h",
+        "richtext_EyG3tC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow_ELi96f",
     "main",
-    "rich_text_rhJDKe"
+    "rich_text_rhJDKe",
+    "revealed_image_on_scroll_HKyyef",
+    "rich_text_3JrDAA"
   ]
 }
