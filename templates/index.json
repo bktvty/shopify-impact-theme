@@ -470,6 +470,17 @@
     "press": {
       "type": "press",
       "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/Screenshot_2025-06-19_at_1.44.16_AM.png",
+            "logo_width": 100,
+            "author": "Farida",
+            "content": "Bas fel focus momken awi ahh During training and the game and out of it. Both besarahaa Hassa fel etnein ba2et arakez akatr",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
@@ -481,20 +492,21 @@
             "rating": 5
           }
         },
-        "16644243327ba53d2a-0": {
+        "quote_iaqMd3": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
             "author": "Muhanad",
-            "content": "Hases eni more active throughout the day whether focus in work in the morning and then going to training . Plus sleeping is more deep at night we bas7a esob7 msh hases eni gesmy wag3eny and soar as it used to be..  Bas fel focus momken awi ahh During training and the game and out of it. Both besarahaa Hassa fel etnein ba2et arakez akatr",
+            "content": "Hases eni more active throughout the day whether focus in work in the morning and then going to training . Plus sleeping is more deep at night we bas7a esob7 msh hases eni gesmy wag3eny and soar as it used to be..",
             "show_rating": true,
-            "rating": 5
+            "rating": 4
           }
         }
       },
       "block_order": [
+        "16644243327ba53d2a-0",
         "16644243327ba53d2a-1",
-        "16644243327ba53d2a-0"
+        "quote_iaqMd3"
       ],
       "settings": {
         "full_width": true,
