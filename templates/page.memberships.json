@@ -69,8 +69,8 @@
             "heading_tag": "h2",
             "content": "<p><em>For high performers who want clarity, control, and real results.</em></p><p><strong>What’s included:<br/></strong>●     Full Vitalis Labs panel (initial & retesting every quarter)<br/>●     Personalized supplement protocol (1–3 capsules daily)<br/>●     Dynamic formulation based on blood results<br/>●     Progress dashboard with biomarker trends<br/>●     Clinical review & lifestyle insights<br/>●     Monthly updates and support from the Vitalis team</p><p><span style=\"text-decoration:underline\"><strong>Pricing:</strong></span></p><ul><li><strong>1,000 SAR/month</strong> <em>(billed monthly –     3,000 SAR every 3 months)</em></li><li>Supplements + lab testing + clinical dashboard included</li><li>Cancel anytime after one quarter </li></ul>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "link_text": "Join Now",
+            "link_style": "button"
           }
         },
         "item_EDqF6f": {
@@ -82,8 +82,8 @@
             "heading_tag": "h2",
             "content": "<p><em>Give your entire household access to the same level of personalized care.</em></p><p><strong>All family members receive:<br/>What’s included:<br/></strong>●     Full blood analysis + dynamic supplement protocol<br/>●     Ongoing biomarker tracking & progress reports<br/>●     Shared family dashboard + concierge support</p><ul><li><span style=\"text-decoration:underline\"><strong>Pricing:<br/></strong></span><strong>Couples Plan</strong>: 1,800 SAR/month <em>(billed quarterly – 5,400 SAR)</em></li><li><strong>Vitalis Family 4-Pack</strong>: 3,400<br/>SAR/month <em>(billed quarterly – 10,200 SAR)</em></li><li><strong>Extended Family (6+):</strong> Custom<br/>pricing available</li></ul>",
             "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "link_text": "Join Now",
+            "link_style": "button"
           }
         }
       },
@@ -93,9 +93,9 @@
       ],
       "name": "Multi-column",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "stack_on_mobile": false,
-        "gap": "medium",
+        "gap": "x-large",
         "text_alignment": "start",
         "subheading": "",
         "title": "",
