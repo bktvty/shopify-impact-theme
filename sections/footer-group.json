@@ -88,6 +88,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "VITALIS",
+            "content": "<p>Address: Business City, Dubai<br/>United Arab of Emirates</p><p>Email: <strong>info@vitalisme.com</strong></p><p>Phone: <strong>(212)555-1234</strong></p><p><a href=\"https://vitalisme.com/pages/contact-1\">Get direction</a></p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
@@ -100,23 +108,15 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "main-menu",
             "show_menu_title": true
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
-            "enable_follow_on_shop": true
           }
         }
       },
       "block_order": [
+        "text",
         "newsletter",
-        "links",
-        "text"
+        "links"
       ],
       "settings": {
         "show_social_media": true,
