@@ -405,19 +405,69 @@
         "heading_gradient": ""
       }
     },
+    "accordion_content_fbHRXN": {
+      "type": "accordion-content",
+      "blocks": {
+        "item_nqPUJr": {
+          "type": "item",
+          "settings": {
+            "title": "Question 1",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        },
+        "item_cichnW": {
+          "type": "item",
+          "settings": {
+            "title": "Question 2",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        },
+        "item_pjAEXY": {
+          "type": "item",
+          "settings": {
+            "title": "Question 3",
+            "content": "<p>Write content to help your customers to better understand your products or policies.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_nqPUJr",
+        "item_cichnW",
+        "item_pjAEXY"
+      ],
+      "name": "Accordion content",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Establish Your Baseline",
+        "content": "<p><strong>From the moment you join Vitalis, we start decoding your biology.</strong></p><p>We begin by measuring what matters, your blood work. From Day 1, we assess over 30 critical biomarkers that impact your energy, sleep, recovery, mood, hormones, and longevity.</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
     "rich_text_74qmhJ": {
       "type": "rich-text",
       "blocks": {
         "subheading_EJHe38": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "START NOW?"
           }
         },
         "heading_WqrFhB": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Fill The Form",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
@@ -496,6 +546,7 @@
     "rich_text_4KbUU9",
     "rich_text_xmggEy",
     "images_with_text_scrolling_RfMNda",
+    "accordion_content_fbHRXN",
     "rich_text_74qmhJ",
     "17502766548677cb7b"
   ]
