@@ -111,6 +111,7 @@
         "item_rdKhiz": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/silver-and-gold-party-decor.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Why Vitalis Membership?",
