@@ -507,6 +507,67 @@
         "logo_item_border": ""
       }
     },
+    "scrolling_text_CayzjQ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Extend Your Performance for Years to Come",
+        "text_size": "large",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "timeline_fLfihg": {
+      "type": "timeline",
+      "blocks": {
+        "slide_7wjCqJ": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2025",
+            "subheading": "",
+            "title": "Extend Your Performance for Years to Come",
+            "content": "<p>Short-term gains mean nothing if they<br/>cost you your long-term health. At Vitalis, we do both.<br/><br/>Our system is built to enhance your performance today, while preserving your<br/>health for decades ahead.</p>"
+          }
+        },
+        "slide_x6NnNE": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2026",
+            "subheading": "",
+            "title": "What Vitalis Does:",
+            "content": "<p>Identifies early signs<br/>of biological wear-and-tear and builds protocols that slow it down, supporting<br/>healthier aging.<br/><br/><br/><br/></p>"
+          }
+        },
+        "slide_QtqwJF": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2027",
+            "subheading": "",
+            "title": "Measure What Affects Longevity",
+            "content": "<p>We test and monitor markers linked to<br/>aging, like oxidative stress, mitochondrial health, hormonal decline, inflammation, and insulin resistance.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_7wjCqJ",
+        "slide_x6NnNE",
+        "slide_QtqwJF"
+      ],
+      "custom_css": [],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -571,6 +632,8 @@
     "media-grid",
     "before-after-image",
     "press",
+    "scrolling_text_CayzjQ",
+    "timeline_fLfihg",
     "faq"
   ]
 }
