@@ -52,6 +52,7 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "text": "Promotion text",
@@ -71,6 +72,7 @@
         "item_Pa9nCE": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Mock_Home02.webp",
             "icon": "none",
             "icon_width": 48,
             "title": "Heading 1",
@@ -84,10 +86,10 @@
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_counter": true,
         "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "image_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": "",
