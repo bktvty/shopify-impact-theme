@@ -14,19 +14,6 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
-          }
-        },
         "customer-support": {
           "type": "item",
           "settings": {
@@ -37,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "content": "<p>You can reach us through live chat or email.</p>"
           }
         },
         "discount": {
@@ -50,7 +37,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": "<p>You can earn more and more with us.</p>"
           }
         },
         "payment": {
@@ -63,15 +50,28 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "content": "<p>All payment transactions are secured.</p>"
+          }
+        },
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Free shipping",
+            "content": "<p>Tell your customers about your shipping offer.</p>"
           }
         }
       },
       "block_order": [
-        "free-shipping",
         "customer-support",
         "discount",
-        "payment"
+        "payment",
+        "free-shipping"
       ],
       "settings": {
         "full_width": true,
