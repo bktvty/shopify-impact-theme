@@ -15,6 +15,7 @@
         "image_hqmEfc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/laying-down-at-the-center-of-a-maze.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -115,56 +116,6 @@
         "text_color": ""
       }
     },
-    "images_with_text_scrolling_RfMNda": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_rdKhiz": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "What Vitalis Does:",
-            "content": "<p>Collects your blood<br/>test data and identifies gaps, inefficiencies, and areas for intervention. No<br/>more hidden deficiencies or “normal-but-not-optimal” levels.</p>"
-          }
-        },
-        "item_A4AGeN": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Understand Your Body’s Needs",
-            "content": "<p>Every person has a unique biological fingerprint. We decode what your body is actually asking for, backed by science.<br/><br/><br/><br/></p>"
-          }
-        },
-        "item_akUpcp": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "What Vitalis Does:",
-            "content": "<p>Creates a full health profile using clinical thresholds, lifestyle factors, and biomarker interaction models to map your most urgent and long term needs.<br/><br/><br/><br/></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_rdKhiz",
-        "item_A4AGeN",
-        "item_akUpcp"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "rich_text_KzUPEd": {
       "type": "rich-text",
       "blocks": {
@@ -248,7 +199,6 @@
     "slideshow_zJpaih",
     "main",
     "multi_column_mzz4pb",
-    "images_with_text_scrolling_RfMNda",
     "rich_text_KzUPEd",
     "apps_p8jJqJ"
   ]
