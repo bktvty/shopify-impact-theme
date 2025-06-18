@@ -134,92 +134,12 @@
         "heading_color": "",
         "heading_gradient": ""
       }
-    },
-    "rich_text_74qmhJ": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_EJHe38": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "heading_WqrFhB": {
-          "type": "heading",
-          "settings": {
-            "text": "Heading",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_crWRyp": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_EJHe38",
-        "heading_WqrFhB",
-        "richtext_crWRyp"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "start",
-        "background": "",
-        "background_gradient": "linear-gradient(179deg, rgba(255, 255, 255, 1), rgba(15, 61, 99, 0.32) 100%)",
-        "text_color": ""
-      }
-    },
-    "17502766548677cb7b": {
-      "type": "apps",
-      "blocks": {
-        "forms_inline_WykgpT": {
-          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
-          "settings": {
-            "form_id": "479833",
-            "text_color": "#0f3d63",
-            "button_background_color": "#202020",
-            "button_label_color": "#ffffff",
-            "links_color": "#0f3d63",
-            "errors_color": "#e02229",
-            "text_alignment": "left",
-            "form_alignment": "flex-start",
-            "padding_top": 20,
-            "padding_bottom": 16,
-            "padding_right": 12,
-            "padding_left": 13
-          }
-        }
-      },
-      "block_order": [
-        "forms_inline_WykgpT"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
     "slideshow_zJpaih",
     "main",
     "multi_column_mzz4pb",
-    "images_with_text_scrolling_RfMNda",
-    "rich_text_74qmhJ",
-    "17502766548677cb7b"
+    "images_with_text_scrolling_RfMNda"
   ]
 }
