@@ -342,10 +342,11 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
+            "title": "Vitamin & Mineral Levels",
+            "heading_tag": "h2",
             "link_url": "",
-            "link_text": "",
+            "link_text": "Learn more",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
             "desktop_row_span": 2,
@@ -354,17 +355,18 @@
             "background_gradient": "",
             "text_color": "#ffffff",
             "text_gradient": "",
-            "button_background": "#000000",
+            "button_background": "#0f3d63",
             "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 30
           }
         },
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/two-people-surfing-in-blue-choppy-water.jpg",
+            "title": "Inflammation Markers",
+            "heading_tag": "h5",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
@@ -384,8 +386,9 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "image": "shopify://shop_images/silver-lamp-on-a-white-table-next-to-books.jpg",
+            "title": "Hormonal Balance",
+            "heading_tag": "h5",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
@@ -405,8 +408,8 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
-            "heading_tag": "h4",
+            "title": "Sleep & Recovery Biomarkers",
+            "heading_tag": "h3",
             "link_url": "",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
