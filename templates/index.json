@@ -379,8 +379,8 @@
             "text_gradient": "",
             "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 30
           }
         },
         "item-3": {
@@ -401,13 +401,14 @@
             "text_gradient": "",
             "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 30
           }
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/busy-hands-playing-with-white-dough.jpg",
             "title": "Sleep & Recovery Biomarkers",
             "heading_tag": "h3",
             "link_url": "",
@@ -422,8 +423,8 @@
             "text_gradient": "",
             "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 31
           }
         }
       },
