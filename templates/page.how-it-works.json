@@ -15,11 +15,12 @@
         "image_hqmEfc": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/busy-hands-playing-with-white-dough.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Blood Quality, Quantified",
+            "title": "How It Works?",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -40,7 +41,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
-        "image_size": "auto",
+        "image_size": "sm",
         "controls_type": "dots",
         "transition_type": "fade_with_text",
         "autoplay": false,
@@ -56,63 +57,78 @@
         "content_width": "60ch"
       }
     },
-    "multi_column_mzz4pb": {
-      "type": "multi-column",
+    "rich_text_phJxRj": {
+      "type": "rich-text",
       "blocks": {
-        "item_QQW97t": {
-          "type": "item",
+        "subheading_mW9XQL": {
+          "type": "subheading",
           "settings": {
-            "column_size": "3",
-            "title": "Track Your Blood Work",
-            "heading_tag": "h4",
-            "content": "<p>We begin by analyzing over 30 key biomarkers related to nutrient levels, hormonal balance, inflammation, metabolism, and recovery.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "Your body is talking."
           }
         },
-        "item_hzMmJi": {
-          "type": "item",
+        "heading_U9E4m6": {
+          "type": "heading",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "text": "We help you listen, with science, not guesses.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
           }
         },
-        "item_EDqF6f": {
-          "type": "item",
+        "richtext_RcGrc6": {
+          "type": "richtext",
           "settings": {
-            "column_size": "3",
-            "title": "Column title",
-            "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
+            "content": "<p>Vitalis tracks the biomarkers that drive<br/>energy, focus, recovery, and aging, so you always know where you stand.</p>"
           }
         }
       },
       "block_order": [
-        "item_QQW97t",
-        "item_hzMmJi",
-        "item_EDqF6f"
+        "subheading_mW9XQL",
+        "heading_U9E4m6",
+        "richtext_RcGrc6"
       ],
-      "name": "Multi-column",
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "<p>Vitalis turns your lab results into a personalized performance engine.<br/><br/>Here’s how we translate your biology from numbers on a page to supplements that<br/>change your life:</p>",
+        "content_width": "small",
+        "text_position": "start",
         "background": "",
         "background_gradient": "",
         "text_color": ""
+      }
+    },
+    "video_RJAq9y": {
+      "type": "video",
+      "blocks": {
+        "heading_VPGGWY": {
+          "type": "heading",
+          "settings": {
+            "text": "What Vitalis Does",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_MNrfKV": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Monitors nutrient levels, inflammation, hormones, metabolic markers, and more through scheduled blood testing, giving you a health dashboard, not just a pill.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VPGGWY",
+        "richtext_MNrfKV"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/8084750-hd_1920_1080_25fps.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "images_with_text_scrolling_RfMNda": {
@@ -247,7 +263,8 @@
   "order": [
     "slideshow_zJpaih",
     "main",
-    "multi_column_mzz4pb",
+    "rich_text_phJxRj",
+    "video_RJAq9y",
     "images_with_text_scrolling_RfMNda",
     "rich_text_74qmhJ",
     "17502766548677cb7b"
