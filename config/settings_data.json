@@ -44,6 +44,7 @@
     "social_instagram": "#",
     "social_tiktok": "#",
     "social_linkedin": "#",
+    "favicon": "shopify://shop_images/iconAsset_8.svg",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
     "content_for_index": []

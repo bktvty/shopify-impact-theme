@@ -111,12 +111,20 @@
             "menu": "main-menu",
             "show_menu_title": true
           }
+        },
+        "links_DBc4hG": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
         "text",
         "newsletter",
-        "links"
+        "links",
+        "links_DBc4hG"
       ],
       "settings": {
         "show_social_media": true,
