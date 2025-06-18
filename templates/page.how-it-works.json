@@ -131,6 +131,121 @@
         "overlay_opacity": 30
       }
     },
+    "rich_text_w7qF4A": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UUVtFF": {
+          "type": "heading",
+          "settings": {
+            "text": "See What’s Improving, and What’s Not",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ccWGzK": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Health is dynamic. We show you the trends, not just the results.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UUVtFF",
+        "richtext_ccWGzK"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_4KbUU9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mD8XYW": {
+          "type": "heading",
+          "settings": {
+            "text": "What Vitalis Does:",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_7pMibU": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Delivers clear reports that highlight improvements, plateaus, and areas needing more support, so your plan always stays relevant.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mD8XYW",
+        "richtext_7pMibU"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "start",
+        "background": "#0f3d63",
+        "background_gradient": "",
+        "text_color": "#ffffff"
+      }
+    },
+    "video_zzXBEN": {
+      "type": "video",
+      "blocks": {
+        "heading_NKQU63": {
+          "type": "heading",
+          "settings": {
+            "text": "Data-Driven Adjustments",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_mTj3Yj": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Your biology changes. So do we.</p>"
+          }
+        },
+        "heading_myGqDU": {
+          "type": "heading",
+          "settings": {
+            "text": "What Vitalis Does",
+            "heading_tag": "h2"
+          }
+        },
+        "richtext_XTckyY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>We retest, reformulate, and refine based on your evolving blood markers, and unique physiology, to keep your protocol dialed in and working for you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_NKQU63",
+        "richtext_mTj3Yj",
+        "heading_myGqDU",
+        "richtext_XTckyY"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/6389829-uhd_2160_3840_25fps.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "images_with_text_scrolling_RfMNda": {
       "type": "images-with-text-scrolling",
       "blocks": {
@@ -265,6 +380,9 @@
     "main",
     "rich_text_phJxRj",
     "video_RJAq9y",
+    "rich_text_w7qF4A",
+    "rich_text_4KbUU9",
+    "video_zzXBEN",
     "images_with_text_scrolling_RfMNda",
     "rich_text_74qmhJ",
     "17502766548677cb7b"
