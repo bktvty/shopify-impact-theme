@@ -19,7 +19,7 @@
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "",
-            "title": "Blood Quality, Quantified",
+            "title": "Get Started",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -165,25 +165,25 @@
         "heading_gradient": ""
       }
     },
-    "rich_text_74qmhJ": {
+    "rich_text_KzUPEd": {
       "type": "rich-text",
       "blocks": {
-        "subheading_EJHe38": {
+        "subheading_QQTMmr": {
           "type": "subheading",
           "settings": {
-            "text": "Subheading"
+            "text": "START NOW?"
           }
         },
-        "heading_WqrFhB": {
+        "heading_RJUjKJ": {
           "type": "heading",
           "settings": {
-            "text": "Heading",
+            "text": "Fill The Form",
             "heading_tag": "h1",
             "text_color": "",
             "gradient": ""
           }
         },
-        "richtext_crWRyp": {
+        "richtext_xCnT8L": {
           "type": "richtext",
           "settings": {
             "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
@@ -191,9 +191,9 @@
         }
       },
       "block_order": [
-        "subheading_EJHe38",
-        "heading_WqrFhB",
-        "richtext_crWRyp"
+        "subheading_QQTMmr",
+        "heading_RJUjKJ",
+        "richtext_xCnT8L"
       ],
       "name": "Rich text",
       "settings": {
@@ -201,19 +201,19 @@
         "content_width": "small",
         "text_position": "start",
         "background": "",
-        "background_gradient": "linear-gradient(179deg, rgba(255, 255, 255, 1), rgba(15, 61, 99, 0.32) 100%)",
+        "background_gradient": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(15, 61, 99, 0.32) 100%)",
         "text_color": ""
       }
     },
-    "17502766548677cb7b": {
+    "apps_p8jJqJ": {
       "type": "apps",
       "blocks": {
-        "forms_inline_WykgpT": {
+        "forms_inline_DPY9hC": {
           "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
           "settings": {
             "form_id": "479833",
             "text_color": "#0f3d63",
-            "button_background_color": "#202020",
+            "button_background_color": "#0f3d63",
             "button_label_color": "#ffffff",
             "links_color": "#0f3d63",
             "errors_color": "#e02229",
@@ -227,7 +227,7 @@
         }
       },
       "block_order": [
-        "forms_inline_WykgpT"
+        "forms_inline_DPY9hC"
       ],
       "settings": {
         "full_width": true,
@@ -249,7 +249,7 @@
     "main",
     "multi_column_mzz4pb",
     "images_with_text_scrolling_RfMNda",
-    "rich_text_74qmhJ",
-    "17502766548677cb7b"
+    "rich_text_KzUPEd",
+    "apps_p8jJqJ"
   ]
 }
