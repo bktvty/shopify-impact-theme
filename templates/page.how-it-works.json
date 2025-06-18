@@ -89,7 +89,7 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "start",
         "background": "",
@@ -156,10 +156,10 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "start",
-        "background": "",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
       }
@@ -189,7 +189,7 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "start",
         "background": "#0f3d63",
@@ -271,10 +271,10 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "start",
-        "background": "",
+        "background": "#f5f5f5",
         "background_gradient": "",
         "text_color": ""
       }
@@ -304,7 +304,7 @@
       ],
       "name": "Rich text",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "content_width": "small",
         "text_position": "start",
         "background": "#0f3d63",
@@ -312,25 +312,49 @@
         "text_color": "#ffffff"
       }
     },
+    "rich_text_xmggEy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FKEkRy": {
+          "type": "heading",
+          "settings": {
+            "text": "What to Expect in the First 30 Days",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ULXtdC": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Your transformation starts from Day 1.</strong><br/>Here’s how Vitalis begins to work.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FKEkRy",
+        "richtext_ULXtdC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "images_with_text_scrolling_RfMNda": {
       "type": "images-with-text-scrolling",
       "blocks": {
-        "item_rdKhiz": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "What Vitalis Does:",
-            "content": "<p>Collects your blood<br/>test data and identifies gaps, inefficiencies, and areas for intervention. No<br/>more hidden deficiencies or “normal-but-not-optimal” levels.</p>"
-          }
-        },
         "item_A4AGeN": {
           "type": "item",
           "settings": {
-            "icon": "none",
+            "icon": "picto-building",
             "icon_width": 48,
-            "title": "Understand Your Body’s Needs",
-            "content": "<p>Every person has a unique biological fingerprint. We decode what your body is actually asking for, backed by science.<br/><br/><br/><br/></p>"
+            "title": "Week 1: Baseline Activation",
+            "content": "<p>Your body starts recognizing and absorbing the targeted nutrients it’s been missing.<br/><br/><strong>What Vitalis Does:<br/></strong>Fills critical gaps in vitamins, minerals, and<br/>co-factors. Some clients notice subtle shifts in energy, digestion, or focus during this phase, while others could notice a major shift.<br/><br/><br/><br/></p>"
           }
         },
         "item_akUpcp": {
@@ -344,7 +368,6 @@
         }
       },
       "block_order": [
-        "item_rdKhiz",
         "item_A4AGeN",
         "item_akUpcp"
       ],
@@ -451,6 +474,7 @@
     "video_zzXBEN",
     "rich_text_w7qF4A",
     "rich_text_4KbUU9",
+    "rich_text_xmggEy",
     "images_with_text_scrolling_RfMNda",
     "rich_text_74qmhJ",
     "17502766548677cb7b"
