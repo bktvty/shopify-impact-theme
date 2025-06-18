@@ -18,10 +18,10 @@
             "content": "<p>‎ ‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p></p>"
           }
         },
-        "subheading_TfkHaM": {
-          "type": "subheading",
+        "richtext_ciqzp7": {
+          "type": "richtext",
           "settings": {
-            "text": "VITALIS"
+            "content": "<p>VITALIS</p>"
           }
         },
         "heading_MQmfww": {
@@ -34,7 +34,7 @@
       },
       "block_order": [
         "richtext_BYMYKj",
-        "subheading_TfkHaM",
+        "richtext_ciqzp7",
         "heading_MQmfww"
       ],
       "name": "Video",
@@ -48,6 +48,51 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 28
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_dKn3qz": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_Pa9nCE": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Pa9nCE"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "image-link-blocks": {
@@ -134,21 +179,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "large",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
       }
     },
     "collection-list": {
@@ -858,8 +888,9 @@
   },
   "order": [
     "video_3KHMeh",
-    "image-link-blocks",
     "scrolling-text",
+    "images_with_text_scrolling_dKn3qz",
+    "image-link-blocks",
     "collection-list",
     "featured-collection",
     "impact-text",

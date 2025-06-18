@@ -25,6 +25,7 @@
       "block_order": [
         "message"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
@@ -57,8 +58,8 @@
         "transparent_header_text_color": "#ffffff",
         "transparent_logo": "shopify://shop_images/Asset_4.svg",
         "reduce_padding": true,
-        "background_opacity": 100,
-        "background_blur_radius": 0
+        "background_opacity": 76,
+        "background_blur_radius": 6
       }
     }
   },
