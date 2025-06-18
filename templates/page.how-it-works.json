@@ -365,11 +365,21 @@
             "title": "Week 2: Biological Calibration",
             "content": "<p>Internal systems begin responding, stress regulation, hormone signaling, and mitochondrial activity start improving.</p><p><strong>What Vitalis Does:<br/></strong>You may begin to feel more stable energy, better sleep initiation, and less brain fog. Behind the scenes, your body is stabilizing.</p>"
           }
+        },
+        "item_pUJEcy": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Week 3: Noticeable Recovery Shifts",
+            "content": "<p>Recovery speeds up, and stress feels more manageable.</p><p><strong>What Vitalis Does:<br/></strong>Adaptogens, anti-inflammatories, and micronutrients begin optimizing cortisol rhythms, reducing systemic inflammation, and improving rest quality.</p>"
+          }
         }
       },
       "block_order": [
         "item_A4AGeN",
-        "item_akUpcp"
+        "item_akUpcp",
+        "item_pUJEcy"
       ],
       "name": "Images and text scrolling",
       "settings": {
