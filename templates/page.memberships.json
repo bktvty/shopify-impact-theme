@@ -113,39 +113,19 @@
           "settings": {
             "icon": "none",
             "icon_width": 48,
-            "title": "What Vitalis Does:",
-            "content": "<p>Collects your blood<br/>test data and identifies gaps, inefficiencies, and areas for intervention. No<br/>more hidden deficiencies or “normal-but-not-optimal” levels.</p>"
-          }
-        },
-        "item_A4AGeN": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Understand Your Body’s Needs",
-            "content": "<p>Every person has a unique biological fingerprint. We decode what your body is actually asking for, backed by science.<br/><br/><br/><br/></p>"
-          }
-        },
-        "item_akUpcp": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "What Vitalis Does:",
-            "content": "<p>Creates a full health profile using clinical thresholds, lifestyle factors, and biomarker interaction models to map your most urgent and long term needs.<br/><br/><br/><br/></p>"
+            "title": "Why Vitalis Membership?",
+            "content": "<ul><li>Scientifically personalized protocols</li><li>Supplements that change with your biology</li><li>One system. One dashboard. Real results.</li><li>Built for busy professionals, athletes, and families who want better health without the guesswork</li></ul>"
           }
         }
       },
       "block_order": [
-        "item_rdKhiz",
-        "item_A4AGeN",
-        "item_akUpcp"
+        "item_rdKhiz"
       ],
       "name": "Images and text scrolling",
       "settings": {
         "full_width": true,
         "stack_on_mobile": true,
-        "show_counter": true,
+        "show_counter": false,
         "desktop_image_effect": "reveal",
         "image_position": "start",
         "background": "",
