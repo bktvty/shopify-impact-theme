@@ -12,20 +12,29 @@
     "video_3KHMeh": {
       "type": "video",
       "blocks": {
-        "play_FW6C8g": {
-          "type": "play",
-          "settings": {}
+        "richtext_BYMYKj": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>‎ ‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p></p>"
+          }
+        },
+        "subheading_TfkHaM": {
+          "type": "subheading",
+          "settings": {
+            "text": "VITALIS"
+          }
         },
         "heading_MQmfww": {
           "type": "heading",
           "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
+            "text": "VITALIS DOESN'T GUESS.. VITALIS MEASURES",
+            "heading_tag": "h3"
           }
         }
       },
       "block_order": [
-        "play_FW6C8g",
+        "richtext_BYMYKj",
+        "subheading_TfkHaM",
         "heading_MQmfww"
       ],
       "name": "Video",
