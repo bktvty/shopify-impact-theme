@@ -38,28 +38,84 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_gzxikw": {
+          "type": "mega_menu",
+          "disabled": true,
+          "settings": {
+            "menu_item": "Ramada Collection",
+            "layout": "horizontal",
+            "submenu_style": "bold_heading",
+            "image_1": "shopify://shop_images/IMG-20240325-WA0051.jpg",
+            "image_heading_1": "Product 1",
+            "image_link_1": "",
+            "image_text_color_1": "#ffffff",
+            "image_2": "shopify://shop_images/IMG-20240325-WA0104.jpg",
+            "image_heading_2": "Product 2",
+            "image_link_2": "",
+            "image_text_color_2": "#ffffff",
+            "image_3": "shopify://shop_images/IMG-20240325-WA0102.jpg",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "elegant-linen",
+            "product_card_background": "",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": true,
+            "drawer_link_image": "hide"
+          }
+        },
+        "mega_menu_6ME3XQ": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "layout": "horizontal",
+            "submenu_style": "bold_heading",
+            "image_heading_1": "",
+            "image_link_1": "",
+            "image_text_color_1": "#ffffff",
+            "image_heading_2": "",
+            "image_link_2": "",
+            "image_text_color_2": "#ffffff",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "hide"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_gzxikw",
+        "mega_menu_6ME3XQ"
+      ],
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Asset_5.svg",
-        "logo_max_width": 165,
-        "logo_mobile_max_width": 150,
+        "logo": "shopify://shop_images/Nodika_logo_png.png",
+        "logo_max_width": 120,
+        "logo_mobile_max_width": 100,
         "menu": "main-menu",
-        "sidebar_menu": "",
+        "sidebar_menu": "main-menu",
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
-        "layout": "logo_left_navigation_center",
+        "layout": "drawer",
         "show_social_media": true,
-        "show_locale_selector": true,
-        "show_country_selector": true,
-        "show_country_flag": true,
+        "show_locale_selector": false,
+        "show_country_selector": false,
+        "show_country_flag": false,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Asset_4.svg",
-        "reduce_padding": true,
-        "background_opacity": 76,
-        "background_blur_radius": 6
+        "transparent_logo": "shopify://shop_images/Nodika_logo_png_copy.png",
+        "reduce_padding": false,
+        "background_opacity": 79,
+        "background_blur_radius": 10
       }
     }
   },
