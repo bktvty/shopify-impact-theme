@@ -18,9 +18,7 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
+          "settings": {}
         },
         "badges": {
           "type": "badges",
@@ -28,15 +26,11 @@
         },
         "price": {
           "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
+          "settings": {}
         },
         "rating": {
           "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
+          "settings": {}
         },
         "payment_terms": {
           "type": "payment_terms",
@@ -48,19 +42,11 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
-            "size_chart_page": ""
-          }
+          "settings": {}
         },
         "quantity_selector": {
           "type": "quantity_selector",
@@ -68,56 +54,11 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
+          "settings": {}
         },
-        "share_buttons_hKKg8e": {
-          "type": "share_buttons",
-          "settings": {
-            "alignment": "start"
-          }
-        },
-        "text_hMYp89": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Shipping & Delivery</h2>"
-          }
-        },
-        "text_TaLdnY": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Orders is being shipped within 7-10 working days (Weekends excluded)</p><p>يتم شحن الطلبات في خلال 7 - 10 ايام عمل (بإستثناء اجازة نهاية الاسبوع)</p>"
-          }
-        },
-        "text_ijqM7r": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Return & Exchange</h2>"
-          }
-        },
-        "text_pRJqNA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You can try the piece on the spot while the courier is waiting, we accept exchanges and refunds only on the spot, once the courier leaves we wont be able to accept any exchanges or refunds.<br/>No Refund or Exchange when you Purchase in discount time.<br/><br/>Delivery fees has to be paid in all situations</p><p></p><p>يمكنك تجربة القطعة أثناء تسليم الاوردر وقت انتظار مندوب شركة الشحن، ونحن نقبل الاستبدال أو الاسترجاع اثناء وجود المندوب فقط ، في حاله مغادرة مندوب شركة الشحن، لن نتمكن من قبول أي عمليات استبدال أو استرجاع.<br/>لا يوجد استبدال او استرجاع عند الشراء وقت الخصم.<br/>يجب دفع رسوم التوصيل في جميع الحالات.</p>"
-          }
-        },
-        "text_JMwYJG": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Product Care</h2>"
-          }
-        },
-        "text_XDriQ8": {
-          "type": "text",
-          "settings": {
-            "text": "<ul><li>It's preferable to dry clean all our products.</li><li>Iron maximum at 40°C</li></ul><p></p><p>Our products are made from delicate fabrics, so it’s important to handle them with care. Hand wash gently without scrubbing or twisting separately in cold water with Downy. Do not soak. We highly recommend dry cleaning only.</p><p>منتجاتنا مصنوعة من أقمشة رقيقة، لذا من المهم التعامل معها بعناية. يُغسل يدويًا بدون نقع يغسل بلطف دون فرك أو لف في ماء بارد مع داوني. نحن نوصي بشدة بالتنظيف الجاف فقط.</p>"
-          }
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
         }
       },
       "block_order": [
@@ -131,54 +72,13 @@
         "description",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
-        "share_buttons_hKKg8e",
-        "text_hMYp89",
-        "text_TaLdnY",
-        "text_ijqM7r",
-        "text_pRJqNA",
-        "text_JMwYJG",
-        "text_XDriQ8"
+        "buy_buttons"
       ],
-      "settings": {
-        "full_width": true,
-        "show_fixed_add_to_cart": true,
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "expanded",
-        "mobile_carousel_control": "floating_dots",
-        "enable_video_autoplay": true,
-        "enable_video_looping": true,
-        "enable_image_zoom": true,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
+      "settings": {}
     },
     "related-products": {
       "type": "related-products",
-      "settings": {
-        "recommendations_count": 6,
-        "products": [],
-        "full_width": true,
-        "stack_products": true,
-        "show_progress_bar": false,
-        "products_per_row_mobile": "1",
-        "products_per_row_desktop": 3,
-        "subheading": "",
-        "title": "You may also like",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
-      }
+      "settings": {}
     }
   },
   "order": [
