@@ -9,12 +9,668 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "main-page",
-      "settings": {}
+    "video_3KHMeh": {
+      "type": "video",
+      "blocks": {
+        "richtext_BYMYKj": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>‎ ‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p></p>"
+          }
+        },
+        "richtext_ciqzp7": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>VITALIS</p>"
+          }
+        },
+        "heading_MQmfww": {
+          "type": "heading",
+          "settings": {
+            "text": "VITALIS DOESN'T GUESS.. VITALIS MEASURES",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_BYMYKj",
+        "richtext_ciqzp7",
+        "heading_MQmfww"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "lg",
+        "video": "shopify://files/videos/6390166-uhd_3840_2160_25fps.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 28
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_dKn3qz": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_Pa9nCE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Mock_Home02.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Your full health profile — unlocked",
+            "content": "<p>We design performance-enhancing supplements based on your biomarkers, not trends or generic formulas. Every capsule is backed by clinical data and built to target what’s holding you back.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Pa9nCE"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image-link-blocks": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "1664424046b00c932c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG-20250524-WA0008.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-3": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
+          "type": "item",
+          "settings": {
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1664424046b00c932c-0",
+        "1664424046b00c932c-1",
+        "1664424046b00c932c-2",
+        "1664424046b00c932c-3",
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "Ddsfa",
+        "content": "<p>afsasfaf</p>",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "images_with_text_scrolling_GP6Gdb": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_VEQegq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG-20250524-WA0009.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Starts With Blood Work",
+            "content": "<p>We analyze your vitamin, mineral, hormonal, and inflammation markers to find what’s suboptimal.</p>"
+          }
+        },
+        "item_feyJxD": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG-20250524-WA0010.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Precision Formulation",
+            "content": "<p>Using cutting-edge research, we formulate only what your body is missing nothing more, nothing less. No fillers. No noise. Just results.<br/><br/><br/><br/></p>"
+          }
+        },
+        "item_W9wUzY": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG-20250524-WA0010.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Systemic Optimization",
+            "content": "<p>We don’t isolate one thing problem. Vitalis protocols improve brain function, sleep cycles, mitochondrial health, hormonal balance, and gut integrity which are the pillars of physical and mental performance.<br/><br/><br/><br/></p>"
+          }
+        },
+        "item_VJyybE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG-20250524-WA0009.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Real-Time Adaptation",
+            "content": "<p>Your lifestyle evolves. So does your Vitalis regimen. As your body adapts, your protocol changes to ensure ensuring constant progression.<br/><br/><br/><br/></p>"
+          }
+        },
+        "item_V6r3hx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/IMG-20250524-WA0005.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Built on Longevity Science",
+            "content": "<p>We optimize performance today without compromising your health tomorrow. Think high performance now, preserved cognitive and physical function “forever”.<br/><br/><br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_VEQegq",
+        "item_feyJxD",
+        "item_W9wUzY",
+        "item_VJyybE",
+        "item_V6r3hx"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "99%",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": true,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "1664424230c4756b0e-0": {
+          "type": "subheading",
+          "settings": {
+            "text": "With Vitalis"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "settings": {
+            "text": "Understand Your Body’s Needs",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Every person has a unique biological fingerprint. We decode what your body is actually asking for, backed by science.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424230c4756b0e-0",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "md",
+        "image": "shopify://shop_images/science-examining-magnifiers.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "media-grid": {
+      "type": "media-grid",
+      "blocks": {
+        "item-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
+            "title": "Vitamin & Mineral Levels",
+            "heading_tag": "h2",
+            "link_url": "",
+            "link_text": "Learn more",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#0f3d63",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 30
+          }
+        },
+        "item-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/two-people-surfing-in-blue-choppy-water.jpg",
+            "title": "Inflammation Markers",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "Learn more",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "rgba(0,0,0,0)",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 30
+          }
+        },
+        "item-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/silver-lamp-on-a-white-table-next-to-books.jpg",
+            "title": "Hormonal Balance",
+            "heading_tag": "h5",
+            "link_url": "",
+            "link_text": "Learn more",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 1,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "rgba(0,0,0,0)",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 30
+          }
+        },
+        "29246d34-c6e0-4373-84f6-b15e57736a00": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/busy-hands-playing-with-white-dough.jpg",
+            "title": "Sleep & Recovery Biomarkers",
+            "heading_tag": "h3",
+            "link_url": "",
+            "link_text": "Learn more",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "rgba(0,0,0,0)",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#0f3d63",
+            "overlay_opacity": 31
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "29246d34-c6e0-4373-84f6-b15e57736a00"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": true,
+        "desktop_row_height": 290,
+        "mobile_row_height": 170,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "before-after-image": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Optimize Your Performance",
+        "content": "<p>At Vitalis, we rely on clinical biomarkers to craft personalized supplement protocols. These are the key metrics we measure to build a formulation that works for your unique biology.</p>",
+        "before_image": "shopify://shop_images/natural-medicine-pills.jpg",
+        "after_image": "shopify://shop_images/hand-with-pill_1d5adf67-4d4e-41c5-80d0-e3a14a0d438f.png",
+        "expand_image": false,
+        "text_position": "start",
+        "before_after_text_position": "bottom",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 46,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/Screenshot_2025-06-19_at_1.44.16_AM.png",
+            "logo_width": 100,
+            "author": "Farida",
+            "content": "Bas fel focus momken awi ahh During training and the game and out of it. Both besarahaa Hassa fel etnein ba2et arakez akatr",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/471593953_2788526684869458_2628177994749690526_n.jpg",
+            "logo_width": 100,
+            "author": "Nour",
+            "content": "Hey hhb, Ok so i want to be very honest with you this blue pill is unbelievable! I literally take it 15mins before bed and i sleep so deeep to a point i wake up to use the wash room I look at the time i be like wth !! I only slept for two hours ?! It feels like i slept for 10 straight hours then to go back to sleep is sooo easy and you deeep sleep .. not sure about the morning pills effect i dont feel anything different but sleep quality is top..",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_iaqMd3": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "Muhanad",
+            "content": "Hases eni more active throughout the day whether focus in work in the morning and then going to training . Plus sleeping is more deep at night we bas7a esob7 msh hases eni gesmy wag3eny and soar as it used to be..",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1",
+        "quote_iaqMd3"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "scrolling_text_CayzjQ": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Extend Your Performance for Years to Come",
+        "text_size": "large",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "timeline_fLfihg": {
+      "type": "timeline",
+      "blocks": {
+        "slide_7wjCqJ": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2025",
+            "subheading": "",
+            "title": "Extend Your Performance for Years to Come",
+            "content": "<p>Short-term gains mean nothing if they<br/>cost you your long-term health. At Vitalis, we do both.<br/><br/>Our system is built to enhance your performance today, while preserving your<br/>health for decades ahead.</p>"
+          }
+        },
+        "slide_x6NnNE": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2026",
+            "subheading": "",
+            "title": "What Vitalis Does:",
+            "content": "<p>Identifies early signs<br/>of biological wear-and-tear and builds protocols that slow it down, supporting<br/>healthier aging.<br/><br/><br/><br/></p>"
+          }
+        },
+        "slide_QtqwJF": {
+          "type": "slide",
+          "settings": {
+            "navigation_label": "2027",
+            "subheading": "",
+            "title": "Measure What Affects Longevity",
+            "content": "<p>We test and monitor markers linked to<br/>aging, like oxidative stress, mitochondrial health, hormonal decline, inflammation, and insulin resistance.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "slide_7wjCqJ",
+        "slide_x6NnNE",
+        "slide_QtqwJF"
+      ],
+      "custom_css": [],
+      "name": "Timeline",
+      "settings": {
+        "full_width": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "166442457738b23caf-0": {
+          "type": "item",
+          "settings": {
+            "title": "Do I need to take a blood test?",
+            "content": "<p>Yes you have to.</p>"
+          }
+        },
+        "166442457738b23caf-1": {
+          "type": "item",
+          "settings": {
+            "title": "What makes Vitalis different?",
+            "content": "<p>100% personalized formulas based on biology not guesswork.</p>"
+          }
+        },
+        "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Can I change my formula?",
+            "content": "<p>Yes — we adapt it Quarterly to your updated data. Reach out to use if you feel like you need something more and we will work with you to further optimize your performance.</p>"
+          }
+        },
+        "item_XhHyE8": {
+          "type": "item",
+          "settings": {
+            "title": "Are the supplements clean?",
+            "content": "<p>Yes. No fillers, no artificial ingredients.</p>"
+          }
+        },
+        "item_RLi8Lq": {
+          "type": "item",
+          "settings": {
+            "title": "Is this safe with medication?",
+            "content": "<p>Yes, this is a product that is designed completely from all-natural components. However, we if you have any pre-existing medical conditions we recommend you check with your doctor before beginning your journey with us.</p>"
+          }
+        },
+        "item_zrrwGa": {
+          "type": "item",
+          "settings": {
+            "title": "Is it just for athletes?",
+            "content": "<p>Absolutely not — we believe everyone should have access to the type of high quality that allows professional athletes to optimize human performance. If you have a body, this is for you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "166442457738b23caf-0",
+        "166442457738b23caf-1",
+        "166442457738b23caf-2",
+        "item_XhHyE8",
+        "item_RLi8Lq",
+        "item_zrrwGa"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
-    "main"
+    "video_3KHMeh",
+    "scrolling-text",
+    "images_with_text_scrolling_dKn3qz",
+    "image-link-blocks",
+    "images_with_text_scrolling_GP6Gdb",
+    "impact-text",
+    "image-with-text-overlay",
+    "media-grid",
+    "before-after-image",
+    "press",
+    "scrolling_text_CayzjQ",
+    "timeline_fLfihg",
+    "faq"
   ]
 }
