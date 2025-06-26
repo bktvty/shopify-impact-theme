@@ -14,19 +14,6 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Free shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
-          }
-        },
         "customer-support": {
           "type": "item",
           "settings": {
@@ -37,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "content": "<p>You can reach us through live chat or email.</p>"
           }
         },
         "discount": {
@@ -50,7 +37,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "content": "<p>You can earn more and more with us.</p>"
           }
         },
         "payment": {
@@ -63,17 +50,29 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "content": "<p>All payment transactions are secured.</p>"
+          }
+        },
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 24,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Express shipping",
+            "content": "<p>Shipped to your door-step wherever you're.</p>"
           }
         }
       },
       "block_order": [
-        "free-shipping",
         "customer-support",
         "discount",
-        "payment"
+        "payment",
+        "free-shipping"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
@@ -82,43 +81,50 @@
         "text_alignment": "center",
         "icon_spacing": "small",
         "background": "",
-        "background_gradient": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(15, 61, 99, 0.51) 100%)",
         "text_color": ""
       }
     },
     "footer": {
       "type": "footer",
       "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "title": "Vitalis",
+            "content": "<p>Address: Business City, Dubai<br/>United Arab of Emirates</p><p>Email: <strong>info@vitalisme.com</strong></p><p>Phone: <strong>(212)555-1234</strong></p><p><a href=\"https://vitalisme.com/pages/contact-1\">Get direction</a></p>",
+            "enable_follow_on_shop": true
+          }
+        },
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/Nodika_logo_png.png",
-            "image_width": 170,
+            "image_width": 150,
             "heading_size": "h3",
             "title": "Sign up for new stories and personal offers",
             "content": ""
           }
         },
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "About Us",
-            "content": "<p>\"What you wear is how you present yourself to the world, especially today, NODIKA Is your fashion.\"</p><p></p><p><strong>Contact Us:</strong></p><p><a href=\"tel:+201001151193\" title=\"+2 0100 115 1193\">+2 0100 115 1193</a></p><p></p><p></p><p><strong>Location:</strong></p><p>New Cairo , Behind AUC Housing, Block 38, Building 83, no.1 ground floor.</p><p><a href=\"https://maps.app.goo.gl/6mLjGHMxKjhWM8gQ8?g_st=ic\" title=\"https://maps.app.goo.gl/6mLjGHMxKjhWM8gQ8?g_st=ic\">PRESS ON GOOGLE MAPS LINK</a></p><p></p><p><strong>Working Hours:</strong></p><p>Hours: 12 PM–9 PM</p>",
-            "enable_follow_on_shop": false
-          }
-        },
         "links": {
           "type": "links",
           "settings": {
+            "menu": "main-menu",
+            "show_menu_title": true
+          }
+        },
+        "links_DBc4hG": {
+          "type": "links",
+          "settings": {
             "menu": "footer",
-            "show_menu_title": false
+            "show_menu_title": true
           }
         }
       },
       "block_order": [
-        "newsletter",
         "text",
-        "links"
+        "newsletter",
+        "links",
+        "links_DBc4hG"
       ],
       "settings": {
         "show_social_media": true,
