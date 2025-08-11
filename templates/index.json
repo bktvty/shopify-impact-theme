@@ -221,7 +221,7 @@
         "item_VJyybE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0009.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_21.55.12.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Real-Time Adaptation",
@@ -231,7 +231,7 @@
         "item_V6r3hx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0005.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_21.17.41_1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Built on Longevity Science",
@@ -328,7 +328,7 @@
         "allow_transparent_header": false,
         "enable_parallax": true,
         "image_size": "md",
-        "image": "shopify://shop_images/science-examining-magnifiers.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_22.26.41.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
