@@ -351,6 +351,7 @@
         "item_A4AGeN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_21.17.41.jpg",
             "icon": "picto-building",
             "icon_width": 48,
             "title": "Week 1: Baseline Activation",
@@ -360,6 +361,7 @@
         "item_akUpcp": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_21.17.41_1.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Week 2: Biological Calibration",
@@ -369,6 +371,7 @@
         "item_pUJEcy": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_21.17.42.jpg",
             "icon": "none",
             "icon_width": 48,
             "title": "Week 3: Noticeable Recovery Shifts",
@@ -378,6 +381,7 @@
         "item_xApXFL": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-07-21_at_22.10.47.png",
             "icon": "none",
             "icon_width": 48,
             "title": "Week 4: Performance Uplift",
