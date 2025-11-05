@@ -41,9 +41,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/Asset_5.svg",
-        "logo_max_width": 165,
-        "logo_mobile_max_width": 150,
+        "logo": "shopify://shop_images/chocoline-icon.png",
+        "logo_max_width": 65,
+        "logo_mobile_max_width": 50,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
@@ -56,7 +56,7 @@
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
-        "transparent_logo": "shopify://shop_images/Asset_4.svg",
+        "transparent_logo": "shopify://shop_images/chocoline-icon-2.png",
         "reduce_padding": true,
         "background_opacity": 76,
         "background_blur_radius": 6
