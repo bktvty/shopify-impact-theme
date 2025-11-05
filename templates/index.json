@@ -8,6 +8,1053 @@
  * ------------------------------------------------------------
  */
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "video_jXmWxX": {
+      "type": "video",
+      "blocks": {
+        "heading_pxXNtr": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Chocolate Your Way!",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_ewpbJb": {
+          "type": "richtext",
+          "disabled": true,
+          "settings": {
+            "content": "<p></p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p></p>"
+          }
+        },
+        "button_aGd8V8": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "style": "outline",
+            "size": "sm",
+            "text": "SHOP NOW",
+            "url": "shopify://collections/chocolate-boxes",
+            "background": "",
+            "text_color": "#faead4"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pxXNtr",
+        "richtext_ewpbJb",
+        "button_aGd8V8"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "autoplay": true,
+        "video_size": "fill",
+        "video": "shopify://files/videos/766418d4-22d2-4f52-9903-9c8034488ca6.mp4",
+        "external_video_url": "",
+        "text_color": "#faead4",
+        "overlay_color": "#4c2b1b",
+        "overlay_opacity": 30
+      }
+    },
+    "media_grid_Wwqzr6": {
+      "type": "media-grid",
+      "blocks": {
+        "image_ykTTeQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9331.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "image_bzzyDF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9329.jpg",
+            "title": "",
+            "heading_tag": "h2",
+            "link_url": "shopify://collections/chocolate-boxes",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 2,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "rgba(0,0,0,0)",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#4c2b1b",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#4c2b1b",
+            "overlay_opacity": 0
+          }
+        },
+        "image_DzyyVw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9330.jpg",
+            "title": "",
+            "heading_tag": "h4",
+            "link_url": "",
+            "link_text": "",
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_column_span": 2,
+            "desktop_row_span": 1,
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "background": "#000000",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "image_ykTTeQ",
+        "image_bzzyDF",
+        "image_DzyyVw"
+      ],
+      "settings": {
+        "full_width": true,
+        "reduce_width": false,
+        "desktop_row_height": 320,
+        "mobile_row_height": 170,
+        "background": "",
+        "background_gradient": ""
+      }
+    },
+    "collection_list_b6e8FH": {
+      "type": "collection-list",
+      "blocks": {
+        "collection_BzGpNF": {
+          "type": "collection",
+          "settings": {
+            "collection": "chocolate-boxes",
+            "image": "shopify://shop_images/prepacked-chocolate_168270ad-a5f3-4315-ba76-5cf5f9093c99.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_rF4Lib": {
+          "type": "collection",
+          "settings": {
+            "collection": "unwrapped-chocolates",
+            "image": "shopify://shop_images/IMG_9323.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_gi4kjp": {
+          "type": "collection",
+          "settings": {
+            "collection": "classic-chocolates",
+            "image": "shopify://shop_images/1K3A1443ayah_669b58a3-8672-4206-a073-c530cc3fb6c6.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_j7rdx7": {
+          "type": "collection",
+          "settings": {
+            "collection": "occasions",
+            "image": "shopify://shop_images/DSC04937_26186629-a030-47ad-9142-3e4bce2a47a5.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_aaPYDX": {
+          "type": "collection",
+          "settings": {
+            "collection": "small-gifts",
+            "image": "shopify://shop_images/PP3.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h3",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_BzGpNF",
+        "collection_rF4Lib",
+        "collection_gi4kjp",
+        "collection_j7rdx7",
+        "collection_aaPYDX"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_collections": false,
+        "collections_per_row": 4,
+        "show_progress_bar": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "image-link-blocks": {
+      "type": "image-link-blocks",
+      "blocks": {
+        "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ch-06_95936aea-3988-464e-9698-9b1a685515ce.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/pre-packed-chocolate-boxes",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/chocoline_official__2024-08-06T112420.000Z.jpg",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/small-gifts",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/cat-occasions.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "shopify://collections/unwrapped-chocolates",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/cat-small-choc-gifts.png",
+            "stretch_image": true,
+            "link_text": "",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "1664424046b00c932c-2",
+        "1664424046b00c932c-1",
+        "1664424046b00c932c-3",
+        "1664424046b00c932c-0"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "div {padding-top: 0px; margin-right: 0px; margin-bottom: 00px; margin-left: 0px;}"
+      ],
+      "settings": {
+        "full_width": false,
+        "block_size": "large",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "rich_text_N86p6N": {
+      "type": "rich-text",
+      "blocks": {
+        "image_FdBjBA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/chocofinaleicon.png",
+            "width_mode": "custom",
+            "max_width": 100,
+            "mobile_max_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "image_FdBjBA"
+      ],
+      "custom_css": [
+        "div {padding-top: 2px; padding-right: 0px; padding-bottom: 2px; padding-left: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#faead4",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "disabled": true,
+      "custom_css": [
+        "div {margin-top: -40px; margin-right: 0px; margin-bottom: -40px; margin-left: 0px; padding-top: -0px; padding-right: 0px; padding-bottom: -60px; padding-left: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "text": "BLACK FRIDAY OFFERS NOW",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "#4c2b1b",
+        "background_gradient": "",
+        "text_color": "#4c2b1b",
+        "text_gradient": ""
+      }
+    },
+    "featured_collection_tXwJcd": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "chocolate-boxes",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 8,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "Chocolate Boxes",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(250, 234, 212, 1) 100%)",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "#ffffff",
+        "product_card_text_color": ""
+      }
+    },
+    "rich_text_NjLPd6": {
+      "type": "rich-text",
+      "blocks": {
+        "button_9dXc4C": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "base",
+            "text": "More Chocolate Boxes  →",
+            "url": "shopify://collections/chocolate-boxes",
+            "background": "#ffffff",
+            "text_color": "#4c2b1b"
+          }
+        }
+      },
+      "block_order": [
+        "button_9dXc4C"
+      ],
+      "custom_css": [
+        "div {padding-top: 0px; margin-right: 0px; margin-bottom: -10px; margin-left: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#faead4",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "images_with_text_scrolling_xCMWcC": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_LAb8EM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/chocoline_official__2024-05-26T131936.000Z.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Ideal Corporate Gift",
+            "content": "<p><em><strong>Searching for a truly remarkable gift for your employees or clients?</strong></em></p><p>Discover the world of <strong>Chocoline</strong>, where exceptional corporate gifts are crafted to leave a lasting impression. Our curated assortments are designed to evoke joy and surprise with every bite.</p><p>Visit our <strong>“Corporate Gifts”</strong> page to explore a wide selection of customizable assortments, perfect for delighting your team or impressing your clients.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_LAb8EM"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, rgba(250, 234, 212, 1), rgba(255, 255, 255, 1) 100%)",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/occasions_553ed19e-d79b-4ce1-832f-3fc6af5de32c.jpg",
+            "subheading": "",
+            "title": "Fingers",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-end text-end",
+            "text_color": "#faead4",
+            "overlay_color": "#4c2b1b",
+            "overlay_opacity": 30
+          }
+        },
+        "collection-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/prepacked-chocolate_168270ad-a5f3-4315-ba76-5cf5f9093c99.jpg",
+            "subheading": "",
+            "title": "Unwrapped",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-end text-end",
+            "text_color": "#faead4",
+            "overlay_color": "#4c2b1b",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_bMC9kK": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/classic-chocolate_409bf709-48e8-4f0e-91f4-25539cf9fd6d.jpg",
+            "subheading": "",
+            "title": "Four",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-end text-end",
+            "text_color": "#faead4",
+            "overlay_color": "#4c2b1b",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_bhgD3c": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "collection-2",
+        "collection_bMC9kK",
+        "collection_bhgD3c"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_collections": true,
+        "collections_per_row": 4,
+        "show_progress_bar": true,
+        "subheading": "",
+        "title": "Chocolates & More..",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "#faead4",
+        "background_gradient": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(250, 234, 212, 1) 100%)",
+        "text_color": "rgba(0,0,0,0)",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "featured_collection_harxdm": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "products": [
+          "test-copy",
+          "box-2",
+          "box-3",
+          "box-4"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": true,
+        "products_count": 5,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 5,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "shopify://collections/all",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, rgba(250, 234, 212, 1), rgba(255, 255, 255, 1) 100%)",
+        "text_color": "#4c2b1b",
+        "heading_color": "#4c2b1b",
+        "heading_gradient": "",
+        "product_card_background": "#faead4",
+        "product_card_text_color": ""
+      }
+    },
+    "images_with_text_scrolling_WhBJtg": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_frr6yQ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PP6.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 1",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_3MqEV4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PP8.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Choco Box",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_4w6tkn": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PP1.jpg",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_frr6yQ",
+        "item_3MqEV4",
+        "item_4w6tkn"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "impact-text": {
+      "type": "impact-text",
+      "blocks": {
+        "1664424181b38582d5-0": {
+          "type": "item",
+          "settings": {
+            "title": "Chocoline",
+            "subheading": "",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "1664424181b38582d5-0"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "featured_collection_B7WFe7": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "",
+        "products": [
+          "congrats-box",
+          "elegant-box-300grams"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": true,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "On Sale %",
+        "content": "",
+        "link_url": "shopify://collections/all",
+        "link_text": "Shop all",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(250, 234, 212, 1) 100%)",
+        "text_color": "#4c2b1b",
+        "heading_color": "#4c2b1b",
+        "heading_gradient": "",
+        "product_card_background": "#ffffff",
+        "product_card_text_color": ""
+      }
+    },
+    "image-with-text-overlay": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "liquid_LYjyf9": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<center><img src=\"https://cdn.shopify.com/s/files/1/0624/2726/7158/files/chocofinalee.png?v=1732644226\" alt=\"Italian Trulli\" style=\"width:75px;height:40px;\">"
+          }
+        },
+        "1664424230c4756b0e-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Chocolate Your Way",
+            "heading_tag": "h1"
+          }
+        },
+        "1664424230c4756b0e-2": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><em><strong>Chocoline</strong></em><em> </em>has many delightful flavor variations and combinations to fulfill your quest for ultimate chocolate.</p><p>If you are intrigued by our collection or would like to request a specific combination of ingredients you have our <strong>attention</strong>!</p>"
+          }
+        }
+      },
+      "block_order": [
+        "liquid_LYjyf9",
+        "1664424230c4756b0e-1",
+        "1664424230c4756b0e-2"
+      ],
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "md",
+        "image": "shopify://shop_images/chocoline_official__2024-08-22T083147.000Z.jpg",
+        "mobile_image": "shopify://shop_images/chocoline_official__2024-08-22T083147.000Z.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#faead4",
+        "overlay_color": "#4c2b1b",
+        "overlay_opacity": 50
+      }
+    },
+    "before-after-image": {
+      "type": "before-after-image",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Before/after",
+        "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "Before",
+        "after_text": "After",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#ffffff",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Share info about what your customers say about your products.",
+            "show_rating": false,
+            "rating": 4
+          }
+        },
+        "16644243327ba53d2a-1": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Or share content about your promotion, offers...",
+            "show_rating": false,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0",
+        "16644243327ba53d2a-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "hot-spots": {
+      "type": "hot-spots",
+      "blocks": {
+        "1664424434f5b7d0e0-1": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 14,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 14,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "1664424434f5b7d0e0-2": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 62,
+            "vertical_position": 75,
+            "horizontal_position_mobile": 52,
+            "vertical_position_mobile": 75,
+            "icon": "shopify://shop_images/chocofinaleicon.png",
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664424434f5b7d0e0-1",
+        "1664424434f5b7d0e0-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/main2.jpg",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "featured_collection_DpRnUW": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "best-sellers",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Best Sellers",
+        "content": "",
+        "link_url": "shopify://collections/best-sellers",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
+    "image_with_text_overlay_zcGpVy": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": true,
+        "image_size": "sm",
+        "image": "shopify://shop_images/IMG_9324.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "video_Lrg8qx": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "sm",
+        "video": "shopify://files/videos/chocoline_official__2022-10-25T143627.000Z.mp4",
+        "external_video_url": "",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "featured_collection_Hein4Y": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "chocolate-boxes",
+        "products": [
+          "brown-box-500grams",
+          "chocolate-box-400grams",
+          "choco-fingers",
+          "classic-box"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 4,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(250, 234, 212, 1) 100%)",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "#ffffff",
+        "product_card_text_color": ""
+      }
+    },
+    "text_with_icons_RWLDrR": {
+      "type": "text-with-icons",
+      "blocks": {
+        "item_FyxkN6": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-question",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "FAQs",
+            "content": "<p>Discover <a href=\"/pages/faqs\" title=\"FAQs\">frequently asked questions</a> for more information</p>"
+          }
+        },
+        "item_8Wd9ib": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-pin",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Our Stores",
+            "content": "<p>Locate your <a href=\"/pages/where-to-find-us\" title=\"Where to Find us?\">nearest store</a> to your place to have your own delicious chocolates</p>"
+          }
+        },
+        "item_4W7aUJ": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-gift",
+            "mobile_icon_width": 24,
+            "icon_width": 32,
+            "icon_background_type": "circle",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Loyalty Program",
+            "content": "<p>Benefit from exclusive advantages and many other surprises when you order online.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_FyxkN6",
+        "item_8Wd9ib",
+        "item_4W7aUJ"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "title": "",
+        "heading_tag": "h5",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
+        "background": "",
+        "background_gradient": "linear-gradient(180deg, rgba(250, 234, 212, 1), rgba(255, 255, 255, 1) 100%)",
+        "text_color": ""
+      }
+    },
+    "rich_text_kMLnNL": {
+      "type": "rich-text",
+      "blocks": {
+        "image_gPUJHy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/chocofinale.png",
+            "width_mode": "custom",
+            "max_width": 100,
+            "mobile_max_width": 100
+          }
+        }
+      },
+      "block_order": [
+        "image_gPUJHy"
+      ],
+      "custom_css": [
+        "div {padding-top: 2px; padding-right: 0px; padding-bottom: 2px; padding-left: 0px;}"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#faead4",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "video_jXmWxX",
+    "media_grid_Wwqzr6",
+    "collection_list_b6e8FH",
+    "image-link-blocks",
+    "rich_text_N86p6N",
+    "scrolling-text",
+    "featured_collection_tXwJcd",
+    "rich_text_NjLPd6",
+    "images_with_text_scrolling_xCMWcC",
+    "collection-list",
+    "featured_collection_harxdm",
+    "images_with_text_scrolling_WhBJtg",
+    "impact-text",
+    "featured_collection_B7WFe7",
+    "image-with-text-overlay",
+    "before-after-image",
+    "press",
+    "hot-spots",
+    "featured_collection_DpRnUW",
+    "image_with_text_overlay_zcGpVy",
+    "video_Lrg8qx",
+    "featured_collection_Hein4Y",
+    "text_with_icons_RWLDrR",
+    "rich_text_kMLnNL"
+  ]
 }
