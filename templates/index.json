@@ -9,91 +9,114 @@
  */
 {
   "sections": {
-    "video_3KHMeh": {
-      "type": "video",
+    "slideshow": {
+      "type": "slideshow",
       "blocks": {
-        "richtext_BYMYKj": {
-          "type": "richtext",
+        "slide-2": {
+          "type": "image",
           "settings": {
-            "content": "<p>‎ ‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p>‎ </p><p></p>"
+            "image": "shopify://shop_images/2WEB.png",
+            "mobile_image": "shopify://shop_images/2MOB.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Welcome to Sam Technoloji",
+            "title": "Powerbanks & Cables",
+            "heading_tag": "h0",
+            "button_text": "SHOP NOW",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#f3c314",
+            "button_text_color": "#0c1c4d",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         },
-        "richtext_ciqzp7": {
-          "type": "richtext",
+        "slide-1": {
+          "type": "image",
           "settings": {
-            "content": "<p>VITALIS</p>"
+            "image": "shopify://shop_images/1WEB.png",
+            "mobile_image": "shopify://shop_images/1MOB.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "",
+            "title": "Laptop Accessories",
+            "heading_tag": "h0",
+            "button_text": "SHOP ALL",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#0c1c4d",
+            "button_text_color": "#f3c314",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         },
-        "heading_MQmfww": {
-          "type": "heading",
+        "278de14f-c44f-484f-b846-71de36551d49": {
+          "type": "image",
           "settings": {
-            "text": "VITALIS DOESN'T GUESS.. VITALIS MEASURES",
-            "heading_tag": "h3"
+            "image": "shopify://shop_images/3WEB.png",
+            "mobile_image": "shopify://shop_images/3MOB.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Wireless & Wired",
+            "title": "Speakers",
+            "heading_tag": "h0",
+            "button_text": "SHOP NOW",
+            "button_link": "shopify://collections/all",
+            "text_color": "#ffffff",
+            "button_background": "#f3c314",
+            "button_text_color": "#0c1c4d",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "9af01a80-3376-4c3d-bc4c-76870fbd5c56": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4WEB.png",
+            "mobile_image": "shopify://shop_images/4MOB.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Wireless & Gaming and Wired",
+            "title": "Keyboards",
+            "heading_tag": "h0",
+            "button_text": "SHOP ALL",
+            "button_link": "shopify://collections/all",
+            "text_color": "#ffffff",
+            "button_background": "#0c1c4d",
+            "button_text_color": "#f3c314",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "richtext_BYMYKj",
-        "richtext_ciqzp7",
-        "heading_MQmfww"
+        "slide-2",
+        "slide-1",
+        "278de14f-c44f-484f-b846-71de36551d49",
+        "9af01a80-3376-4c3d-bc4c-76870fbd5c56"
       ],
-      "name": "Video",
       "settings": {
         "full_width": true,
         "allow_transparent_header": true,
+        "image_size": "fill",
+        "controls_type": "numbers",
+        "transition_type": "fade_with_text",
         "autoplay": true,
-        "video_size": "lg",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 28
-      }
-    },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "disabled": true,
-      "settings": {
-        "full_width": true,
-        "text": "Promotion text",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "images_with_text_scrolling_dKn3qz": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_Pa9nCE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Mock_Home02.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Your full health profile — unlocked",
-            "content": "<p>We design performance-enhancing supplements based on your biomarkers, not trends or generic formulas. Every capsule is backed by clinical data and built to target what’s holding you back.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_Pa9nCE"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": true,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "start",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "cycle_speed": 4,
+        "background": "#f2f2f2",
+        "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
     "image-link-blocks": {
@@ -102,9 +125,9 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0008.jpg",
+            "image": "shopify://shop_images/c1_d74ae2dc-4991-4f51-b004-8639a831bf45.png",
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "KEYBOARDS",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -115,20 +138,9 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/c4_d05b6435-4f0b-471e-824b-616491ee3fd2.png",
             "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
+            "link_text": "HEADPHONES",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -139,8 +151,9 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/c5_d0490d39-63c6-43cf-8a7d-08333dfae4a1.png",
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "USB HUBS",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -151,8 +164,22 @@
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/c3_3718d9ab-38fa-49b1-bdc1-bb49363b89c5.png",
             "stretch_image": true,
-            "link_text": "",
+            "link_text": "MOUSE",
+            "link_url": "",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "1664424046b00c932c-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/c2_5417fe88-37da-4012-a8cf-d1ed6c738444.png",
+            "stretch_image": true,
+            "link_text": "EARBUDS",
             "link_url": "",
             "background": "",
             "text_color": "#ffffff",
@@ -164,18 +191,20 @@
       "block_order": [
         "1664424046b00c932c-0",
         "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
         "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
+        "1664424046b00c932c-2"
       ],
-      "disabled": true,
+      "custom_css": [
+        "div {margin-top: -5px; margin-bottom: -5px;}"
+      ],
       "settings": {
-        "full_width": false,
-        "block_size": "large",
+        "full_width": true,
+        "block_size": "small",
         "subheading": "",
-        "title": "Ddsfa",
-        "content": "<p>afsasfaf</p>",
-        "link_url": "",
+        "title": "Categories",
+        "content": "",
+        "link_url": "shopify://collections/all",
         "link_text": "",
         "background": "",
         "background_gradient": "",
@@ -184,79 +213,142 @@
         "heading_gradient": ""
       }
     },
-    "images_with_text_scrolling_GP6Gdb": {
-      "type": "images-with-text-scrolling",
+    "collection-list": {
+      "type": "collection-list",
       "blocks": {
-        "item_VEQegq": {
-          "type": "item",
+        "collection-1": {
+          "type": "collection",
           "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0009.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Starts With Blood Work",
-            "content": "<p>We analyze your vitamin, mineral, hormonal, and inflammation markers to find what’s suboptimal.</p>"
+            "collection": "",
+            "image": "shopify://shop_images/mArtboard-3.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
           }
         },
-        "item_feyJxD": {
-          "type": "item",
+        "collection-2": {
+          "type": "collection",
           "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0010.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Precision Formulation",
-            "content": "<p>Using cutting-edge research, we formulate only what your body is missing nothing more, nothing less. No fillers. No noise. Just results.<br/><br/><br/><br/></p>"
+            "collection": "",
+            "image": "shopify://shop_images/mArtboard-2.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
           }
         },
-        "item_W9wUzY": {
-          "type": "item",
+        "collection-3": {
+          "type": "collection",
           "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0010.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Systemic Optimization",
-            "content": "<p>We don’t isolate one thing problem. Vitalis protocols improve brain function, sleep cycles, mitochondrial health, hormonal balance, and gut integrity which are the pillars of physical and mental performance.<br/><br/><br/><br/></p>"
-          }
-        },
-        "item_VJyybE": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0009.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Real-Time Adaptation",
-            "content": "<p>Your lifestyle evolves. So does your Vitalis regimen. As your body adapts, your protocol changes to ensure ensuring constant progression.<br/><br/><br/><br/></p>"
-          }
-        },
-        "item_V6r3hx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/IMG-20250524-WA0005.jpg",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Built on Longevity Science",
-            "content": "<p>We optimize performance today without compromising your health tomorrow. Think high performance now, preserved cognitive and physical function “forever”.<br/><br/><br/><br/></p>"
+            "collection": "",
+            "image": "shopify://shop_images/mArtboard-5.png",
+            "subheading": "",
+            "title": "",
+            "url": "",
+            "heading_tag": "h2",
+            "text_position": "place-self-center text-center",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
           }
         }
       },
       "block_order": [
-        "item_VEQegq",
-        "item_feyJxD",
-        "item_W9wUzY",
-        "item_VJyybE",
-        "item_V6r3hx"
+        "collection-1",
+        "collection-2",
+        "collection-3"
       ],
-      "name": "Images and text scrolling",
+      "disabled": true,
       "settings": {
         "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
+        "stack_collections": false,
+        "collections_per_row": 3,
+        "show_progress_bar": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "#f3c314",
+        "background_gradient": "linear-gradient(180deg, rgba(240, 240, 240, 1), rgba(243, 195, 20, 1) 100%)",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "scrolling-text": {
+      "type": "scrolling-text",
+      "settings": {
+        "full_width": true,
+        "text": "SALE UP TO 25%",
+        "text_size": "medium",
+        "text_style": "outline",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "all-products",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": true,
+        "products_count": 12,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 4,
+        "subheading": "",
+        "title": "SAM's Top Picks",
+        "content": "",
+        "link_url": "shopify://collections/all",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": "#0c1c4d"
+      }
+    },
+    "8c868ac7-0aff-4a9f-99a5-ba94fa519b16": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "collection": "all-products",
+        "products": [],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "impact-text": {
@@ -265,12 +357,12 @@
         "1664424181b38582d5-0": {
           "type": "item",
           "settings": {
-            "title": "99%",
+            "title": "OFFERS",
             "subheading": "",
             "content": "",
             "button_text": "",
             "button_url": "",
-            "animate_impact_text": true,
+            "animate_impact_text": false,
             "animate_impact_text_duration": 2
           }
         }
@@ -278,13 +370,16 @@
       "block_order": [
         "1664424181b38582d5-0"
       ],
+      "custom_css": [
+        "div {margin-top: -5px; margin-bottom: -5px;}"
+      ],
       "settings": {
         "full_width": true,
         "stack_mobile": true,
         "text_alignment": "center",
         "impact_text_style": "fill",
         "text_divider": "none",
-        "impact_text_size_ratio": 1,
+        "impact_text_size_ratio": 1.3,
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
@@ -299,21 +394,24 @@
       "blocks": {
         "1664424230c4756b0e-0": {
           "type": "subheading",
+          "disabled": true,
           "settings": {
-            "text": "With Vitalis"
+            "text": "Subheading"
           }
         },
         "1664424230c4756b0e-1": {
           "type": "heading",
+          "disabled": true,
           "settings": {
-            "text": "Understand Your Body’s Needs",
+            "text": "Image with text overlay",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
+          "disabled": true,
           "settings": {
-            "content": "<p>Every person has a unique biological fingerprint. We decode what your body is actually asking for, backed by science.</p>"
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
           }
         }
       },
@@ -326,13 +424,14 @@
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": true,
-        "image_size": "md",
-        "image": "shopify://shop_images/science-examining-magnifiers.jpg",
+        "image_size": "sm",
+        "image": "shopify://shop_images/doodle.png",
+        "mobile_image": "shopify://shop_images/doodle.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "media-grid": {
@@ -341,89 +440,89 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
-            "title": "Vitamin & Mineral Levels",
-            "heading_tag": "h2",
+            "image": "shopify://shop_images/mArtboard-4.png",
+            "title": "Power Banks",
+            "heading_tag": "h4",
             "link_url": "",
-            "link_text": "Learn more",
+            "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
             "desktop_row_span": 2,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#f3c314",
             "text_gradient": "",
-            "button_background": "#0f3d63",
+            "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#0f3d63",
+            "overlay_color": "#0c1c4d",
             "overlay_opacity": 30
           }
         },
         "item-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/two-people-surfing-in-blue-choppy-water.jpg",
-            "title": "Inflammation Markers",
-            "heading_tag": "h5",
+            "image": "shopify://shop_images/mArtboard-3.png",
+            "title": "Speakers",
+            "heading_tag": "h4",
             "link_url": "",
-            "link_text": "Learn more",
+            "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "background": "rgba(0,0,0,0)",
+            "background": "#000000",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#f3c314",
             "text_gradient": "",
-            "button_background": "rgba(0,0,0,0)",
+            "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#0f3d63",
+            "overlay_color": "#0c1c4d",
             "overlay_opacity": 30
           }
         },
         "item-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/silver-lamp-on-a-white-table-next-to-books.jpg",
-            "title": "Hormonal Balance",
-            "heading_tag": "h5",
+            "image": "shopify://shop_images/mArtboard-5.png",
+            "title": "Portable Technologies",
+            "heading_tag": "h4",
             "link_url": "",
-            "link_text": "Learn more",
+            "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#f3c314",
             "text_gradient": "",
-            "button_background": "rgba(0,0,0,0)",
+            "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#0f3d63",
+            "overlay_color": "#0c1c4d",
             "overlay_opacity": 30
           }
         },
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/busy-hands-playing-with-white-dough.jpg",
-            "title": "Sleep & Recovery Biomarkers",
-            "heading_tag": "h3",
+            "image": "shopify://shop_images/mArtboard-2.png",
+            "title": "Chargers & Cables",
+            "heading_tag": "h4",
             "link_url": "",
-            "link_text": "Learn more",
+            "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
             "desktop_row_span": 1,
             "desktop_text_position": "sm:place-self-center sm:text-center",
             "background": "#000000",
             "background_gradient": "",
-            "text_color": "#ffffff",
+            "text_color": "#f3c314",
             "text_gradient": "",
-            "button_background": "rgba(0,0,0,0)",
+            "button_background": "#000000",
             "button_text_color": "#ffffff",
-            "overlay_color": "#0f3d63",
-            "overlay_opacity": 31
+            "overlay_color": "#0c1c4d",
+            "overlay_opacity": 30
           }
         }
       },
@@ -435,9 +534,9 @@
       ],
       "settings": {
         "full_width": true,
-        "reduce_width": true,
+        "reduce_width": false,
         "desktop_row_height": 290,
-        "mobile_row_height": 170,
+        "mobile_row_height": 150,
         "background": "",
         "background_gradient": ""
       }
@@ -445,25 +544,25 @@
     "before-after-image": {
       "type": "before-after-image",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "subheading": "",
-        "title": "Optimize Your Performance",
-        "content": "<p>At Vitalis, we rely on clinical biomarkers to craft personalized supplement protocols. These are the key metrics we measure to build a formulation that works for your unique biology.</p>",
-        "before_image": "shopify://shop_images/natural-medicine-pills.jpg",
-        "after_image": "shopify://shop_images/hand-with-pill_1d5adf67-4d4e-41c5-80d0-e3a14a0d438f.png",
+        "title": "A car holders for your Phone!",
+        "content": "<p>Here's how it works! You can order it easily on SAM website and have your phone a smart holder now!</p>",
+        "before_image": "shopify://shop_images/format_webp_7.webp",
+        "after_image": "shopify://shop_images/format_webp_8.webp",
         "expand_image": false,
-        "text_position": "start",
-        "before_after_text_position": "bottom",
-        "before_text": "Before",
-        "after_text": "After",
-        "drag_initial_position": 46,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#ffffff",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Product",
+        "after_text": "In Car",
+        "drag_initial_position": 50,
+        "background": "rgba(0,0,0,0)",
+        "background_gradient": "linear-gradient(180deg, rgba(240, 240, 240, 1), rgba(12, 28, 77, 1) 100%)",
+        "text_color": "#0c1c4d",
+        "before_text_color": "#f3c314",
+        "after_text_color": "#0c1c4d",
+        "drag_cursor_background": "#f3c314",
+        "drag_cursor_color": "#0c1c4d"
       }
     },
     "press": {
@@ -472,31 +571,39 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/Screenshot_2025-06-19_at_1.44.16_AM.png",
             "logo_width": 100,
-            "author": "Farida",
-            "content": "Bas fel focus momken awi ahh During training and the game and out of it. Both besarahaa Hassa fel etnein ba2et arakez akatr",
+            "author": "R** K** | February 7, 2023",
+            "content": "It's a quality headphone, I bought it for my brother, it's been about a year, it works very well.",
             "show_rating": true,
-            "rating": 5
+            "rating": 4
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/471593953_2788526684869458_2628177994749690526_n.jpg",
             "logo_width": 100,
-            "author": "Nour",
-            "content": "Hey hhb, Ok so i want to be very honest with you this blue pill is unbelievable! I literally take it 15mins before bed and i sleep so deeep to a point i wake up to use the wash room I look at the time i be like wth !! I only slept for two hours ?! It feels like i slept for 10 straight hours then to go back to sleep is sooo easy and you deeep sleep .. not sure about the morning pills effect i dont feel anything different but sleep quality is top..",
+            "author": "A** K** K** | 12 October 2023",
+            "content": "I ordered it yesterday and it arrived today. Very cute product🥰😍",
             "show_rating": true,
             "rating": 5
           }
         },
-        "quote_iaqMd3": {
+        "1b609c04-2166-48aa-a115-93dcac4bb380": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "Muhanad",
-            "content": "Hases eni more active throughout the day whether focus in work in the morning and then going to training . Plus sleeping is more deep at night we bas7a esob7 msh hases eni gesmy wag3eny and soar as it used to be..",
+            "author": "N** C** T** | June 7, 2023",
+            "content": "Dude, the product is really nice, it is a bit heavy mouse, but its control is very good, so it is obvious that it is made of quality material.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "bccd1b53-3e6d-4332-a33e-297497b35def": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "B** Ş** | 17 October 2023",
+            "content": "I liked the product. I bought a gaming keyboard for myself and I enjoy using it.",
             "show_rating": true,
             "rating": 4
           }
@@ -505,7 +612,8 @@
       "block_order": [
         "16644243327ba53d2a-0",
         "16644243327ba53d2a-1",
-        "quote_iaqMd3"
+        "1b609c04-2166-48aa-a115-93dcac4bb380",
+        "bccd1b53-3e6d-4332-a33e-297497b35def"
       ],
       "settings": {
         "full_width": true,
@@ -519,65 +627,299 @@
         "logo_item_border": ""
       }
     },
-    "scrolling_text_CayzjQ": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Extend Your Performance for Years to Come",
-        "text_size": "large",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "timeline_fLfihg": {
-      "type": "timeline",
+    "hot-spots": {
+      "type": "hot-spots",
       "blocks": {
-        "slide_7wjCqJ": {
-          "type": "slide",
+        "1664424434f5b7d0e0-0": {
+          "type": "item",
           "settings": {
-            "navigation_label": "2025",
-            "subheading": "",
-            "title": "Extend Your Performance for Years to Come",
-            "content": "<p>Short-term gains mean nothing if they<br/>cost you your long-term health. At Vitalis, we do both.<br/><br/>Our system is built to enhance your performance today, while preserving your<br/>health for decades ahead.</p>"
+            "horizontal_position": 41,
+            "vertical_position": 67,
+            "horizontal_position_mobile": 25,
+            "vertical_position_mobile": 58,
+            "icon_width": 32,
+            "title": "Powerbank",
+            "content": "<p>Have your own powerbank now! <a href=\"/collections/all\" title=\"All products\">SHOP NOW</a></p>"
           }
         },
-        "slide_x6NnNE": {
-          "type": "slide",
+        "1664424434f5b7d0e0-1": {
+          "type": "item",
           "settings": {
-            "navigation_label": "2026",
-            "subheading": "",
-            "title": "What Vitalis Does:",
-            "content": "<p>Identifies early signs<br/>of biological wear-and-tear and builds protocols that slow it down, supporting<br/>healthier aging.<br/><br/><br/><br/></p>"
+            "horizontal_position": 56,
+            "vertical_position": 59,
+            "horizontal_position_mobile": 62,
+            "vertical_position_mobile": 55,
+            "icon_width": 32,
+            "title": "Charging Cable",
+            "content": "<p>Have your own cable now! <a href=\"/collections/all\" title=\"All products\">SHOP NOW</a></p>"
           }
         },
-        "slide_QtqwJF": {
-          "type": "slide",
+        "1664424434f5b7d0e0-2": {
+          "type": "item",
           "settings": {
-            "navigation_label": "2027",
-            "subheading": "",
-            "title": "Measure What Affects Longevity",
-            "content": "<p>We test and monitor markers linked to<br/>aging, like oxidative stress, mitochondrial health, hormonal decline, inflammation, and insulin resistance.</p>"
+            "horizontal_position": 81,
+            "vertical_position": 19,
+            "horizontal_position_mobile": 85,
+            "vertical_position_mobile": 33,
+            "icon_width": 32,
+            "title": "Earbuds",
+            "content": "<p>Have your own earbuds now! <a href=\"/collections/all\" title=\"All products\">SHOP NOW</a></p>"
           }
         }
       },
       "block_order": [
-        "slide_7wjCqJ",
-        "slide_x6NnNE",
-        "slide_QtqwJF"
+        "1664424434f5b7d0e0-0",
+        "1664424434f5b7d0e0-1",
+        "1664424434f5b7d0e0-2"
       ],
-      "custom_css": [],
-      "name": "Timeline",
       "settings": {
         "full_width": true,
+        "image": "shopify://shop_images/2WEB.png",
+        "mobile_image": "shopify://shop_images/2MOB.png",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
+    },
+    "multiple-images-with-text": {
+      "type": "multiple-images-with-text",
+      "blocks": {
+        "1664424486a2b084ab-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Banner1.png",
+            "image_rotation_degrees": -2,
+            "subheading": "",
+            "title": "Black Friday%",
+            "content": "<p>Explore the best <em>Black Friday </em>2023 deals and offers in Sam Technoloji starting 18th November ! Shop online for incredible discounts and savings!</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        },
+        "1664424486a2b084ab-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Banner2.png",
+            "image_rotation_degrees": 6,
+            "subheading": "",
+            "title": "Qatar National Day",
+            "content": "<p>Explore the best <em>Qatar National Day</em> deals and offers in Sam Technoloji starting 18th October! Shop online for incredible discounts and savings!</p>",
+            "button_url": "",
+            "button_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664424486a2b084ab-0",
+        "1664424486a2b084ab-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "images_layout": "stacked",
+        "collage_images_alignment": "middle",
         "background": "",
         "background_gradient": "",
-        "text_color": ""
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "badges",
+        "price",
+        "rating",
+        "separator",
+        "description",
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "full_width": false,
+        "product": "water-resistancethere-isconnection-typewirelesstotal-power-w80wbluetooth-connectionthere-ismulti-connection2all-features-lenovo-lecoo-ds153-boombox-rgb-bluetooth-5-0-stereo-80w-ipx5-tws-portable-speaker",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "feature-chart": {
+      "type": "feature-chart",
+      "blocks": {
+        "16644246508f6fa13a-0": {
+          "type": "headings",
+          "settings": {
+            "heading_1": "Channel Structure",
+            "heading_2": "Multi Connection",
+            "heading_3": "Water Resistance",
+            "heading_4": "Total Power (W)",
+            "heading_5": "Color",
+            "heading_6": "",
+            "heading_7": "",
+            "heading_8": "",
+            "heading_9": "",
+            "heading_10": "",
+            "heading_11": "",
+            "heading_12": "",
+            "heading_13": "",
+            "heading_14": "",
+            "heading_15": "",
+            "heading_16": "",
+            "heading_17": "",
+            "heading_18": "",
+            "heading_19": "",
+            "heading_20": ""
+          }
+        },
+        "16644246508f6fa13a-1": {
+          "type": "values",
+          "settings": {
+            "product": "",
+            "value_1": "<p>5.0</p>",
+            "value_2": "<p>2</p>",
+            "value_3": "<p>Yes</p>",
+            "value_4": "<p>80W</p>",
+            "value_5": "<p>Black</p>",
+            "value_6": "",
+            "value_7": "",
+            "value_8": "",
+            "value_9": "",
+            "value_10": "",
+            "value_11": "",
+            "value_12": "",
+            "value_13": "",
+            "value_14": "",
+            "value_15": "",
+            "value_16": "",
+            "value_17": "",
+            "value_18": "",
+            "value_19": "",
+            "value_20": "",
+            "view_button_background": "",
+            "view_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644246508f6fa13a-0",
+        "16644246508f6fa13a-1"
+      ],
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Product specification",
+        "content": "<p>Lenovo Lecoo DS153 Boombox RGB Bluetooth 5.0 Stereo 80W IPX5 TWS Portable Speaker Features</p>",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "max_rows": 5,
+        "view_all_text": "View all",
+        "view_less_text": "View less",
+        "view_product": "View",
+        "viewing_product": "",
+        "show_product_swatch": true,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "chart_background": "",
+        "chart_text_color": "",
+        "chart_true_false_color": ""
       }
     },
     "faq": {
@@ -586,59 +928,35 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do I need to take a blood test?",
-            "content": "<p>Yes you have to.</p>"
+            "title": "Do you ship overseas?",
+            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "What makes Vitalis different?",
-            "content": "<p>100% personalized formulas based on biology not guesswork.</p>"
+            "title": "How long will it take to get my orders?",
+            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Can I change my formula?",
-            "content": "<p>Yes — we adapt it Quarterly to your updated data. Reach out to use if you feel like you need something more and we will work with you to further optimize your performance.</p>"
-          }
-        },
-        "item_XhHyE8": {
-          "type": "item",
-          "settings": {
-            "title": "Are the supplements clean?",
-            "content": "<p>Yes. No fillers, no artificial ingredients.</p>"
-          }
-        },
-        "item_RLi8Lq": {
-          "type": "item",
-          "settings": {
-            "title": "Is this safe with medication?",
-            "content": "<p>Yes, this is a product that is designed completely from all-natural components. However, we if you have any pre-existing medical conditions we recommend you check with your doctor before beginning your journey with us.</p>"
-          }
-        },
-        "item_zrrwGa": {
-          "type": "item",
-          "settings": {
-            "title": "Is it just for athletes?",
-            "content": "<p>Absolutely not — we believe everyone should have access to the type of high quality that allows professional athletes to optimize human performance. If you have a body, this is for you.</p>"
+            "title": "Any question?",
+            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2",
-        "item_XhHyE8",
-        "item_RLi8Lq",
-        "item_zrrwGa"
+        "166442457738b23caf-2"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
         "title": "FAQ",
-        "content": "",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
         "answer_time": "Average answer time: 24h",
@@ -655,21 +973,82 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "12cc541f-04ac-417b-83f2-f698022eb409": {
+      "type": "hot-spots",
+      "blocks": {
+        "template--21557915615520__12cc541f-04ac-417b-83f2-f698022eb409-item-1": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 49,
+            "vertical_position": 70,
+            "horizontal_position_mobile": 50,
+            "vertical_position_mobile": 59,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        },
+        "template--21557915615520__12cc541f-04ac-417b-83f2-f698022eb409-item-3": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 74,
+            "vertical_position": 47,
+            "horizontal_position_mobile": 88,
+            "vertical_position_mobile": 47,
+            "icon_width": 32,
+            "title": "Feature name",
+            "content": "<p>Share useful information about your product features.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21557915615520__12cc541f-04ac-417b-83f2-f698022eb409-item-1",
+        "template--21557915615520__12cc541f-04ac-417b-83f2-f698022eb409-item-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "full_width": true,
+        "image": "shopify://shop_images/4WEB.png",
+        "mobile_image": "shopify://shop_images/4MOB.png",
+        "title": "",
+        "content": "",
+        "button_text": "",
+        "button_url": "",
+        "desktop_text_position": "place-self-start text-start",
+        "image_background": "",
+        "image_background_gradient": "",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0,
+        "overlay_text_color": "#ffffff",
+        "overlay_button_background": "",
+        "overlay_button_text_color": "",
+        "hot_spot_dot_background": "#ffffff",
+        "hot_spot_dot_text_color": "#000000",
+        "hot_spot_content_background": "#ffffff",
+        "hot_spot_content_text_color": "#000000",
+        "hot_spot_content_opacity": 90,
+        "hot_spot_content_blur_radius": 3
+      }
     }
   },
   "order": [
-    "video_3KHMeh",
-    "scrolling-text",
-    "images_with_text_scrolling_dKn3qz",
+    "slideshow",
     "image-link-blocks",
-    "images_with_text_scrolling_GP6Gdb",
+    "collection-list",
+    "scrolling-text",
+    "featured-collection",
+    "8c868ac7-0aff-4a9f-99a5-ba94fa519b16",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
     "before-after-image",
     "press",
-    "scrolling_text_CayzjQ",
-    "timeline_fLfihg",
-    "faq"
+    "hot-spots",
+    "multiple-images-with-text",
+    "featured-product",
+    "feature-chart",
+    "faq",
+    "12cc541f-04ac-417b-83f2-f698022eb409"
   ]
 }
