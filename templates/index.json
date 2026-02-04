@@ -441,9 +441,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/mArtboard-4.png",
-            "title": "Power Banks",
+            "title": "Powerbank",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/powerbank",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -463,9 +463,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/mArtboard-3.png",
-            "title": "Speakers",
+            "title": "Hoparlör",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/speakers",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -485,9 +485,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/mArtboard-5.png",
-            "title": "Portable Technologies",
+            "title": "Masaj Ürünleri",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/message-devices",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -507,9 +507,9 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/mArtboard-2.png",
-            "title": "Chargers & Cables",
+            "title": "Şarj Adaptörü ve Kablosu",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/adaptorler-ve-kablolar",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -541,30 +541,6 @@
         "background_gradient": ""
       }
     },
-    "before-after-image": {
-      "type": "before-after-image",
-      "settings": {
-        "full_width": false,
-        "subheading": "",
-        "title": "A car holders for your Phone!",
-        "content": "<p>Here's how it works! You can order it easily on SAM website and have your phone a smart holder now!</p>",
-        "before_image": "shopify://shop_images/format_webp_7.webp",
-        "after_image": "shopify://shop_images/format_webp_8.webp",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "top",
-        "before_text": "Product",
-        "after_text": "In Car",
-        "drag_initial_position": 50,
-        "background": "rgba(0,0,0,0)",
-        "background_gradient": "linear-gradient(180deg, rgba(240, 240, 240, 1), rgba(12, 28, 77, 1) 100%)",
-        "text_color": "#0c1c4d",
-        "before_text_color": "#f3c314",
-        "after_text_color": "#0c1c4d",
-        "drag_cursor_background": "#f3c314",
-        "drag_cursor_color": "#0c1c4d"
-      }
-    },
     "press": {
       "type": "press",
       "blocks": {
@@ -572,10 +548,10 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "R** K** | February 7, 2023",
-            "content": "It's a quality headphone, I bought it for my brother, it's been about a year, it works very well.",
+            "author": "S** a** | Ekim 12, 2024 | Trendyol",
+            "content": "mükemmel bir ürün tavsiye ederim",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
@@ -1042,7 +1018,6 @@
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
-    "before-after-image",
     "press",
     "hot-spots",
     "multiple-images-with-text",
