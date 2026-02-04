@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Express shipping",
-            "content": "<p>Tell your customers about your shipping offer.</p>"
+            "title": "Hızlı Teslimat",
+            "content": "<p>Aynı Gün kargoda!</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Customer service",
-            "content": "<p>Tell your customers how they can reach you.</p>"
+            "title": "Müşteri Hizmeti",
+            "content": "<p>İletişim Sayfasından yardımcı olabiliriz</p>"
           }
         },
         "payment": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Güvenli ve Güvenilir",
+            "content": "<p>Trendyol, HepsiBurada, N11, Amazon, Teknosa ve Çiçeksepeti sayfalarımızdan 10 binlerce siparişleri ulaştırdık</p>"
           }
         },
         "discount": {
@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Promotional offers",
-            "content": "<p>Subscribe to the email newsletter for more</p>"
+            "title": "10% İndirim Fırsatı",
+            "content": "<p>E-Posta girdiğinizde size %10 kupon gönderilecektir ve tüm ürünlere uygundur</p>"
           }
         }
       },
