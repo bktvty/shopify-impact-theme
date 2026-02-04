@@ -615,7 +615,7 @@
             "vertical_position_mobile": 58,
             "icon_width": 32,
             "title": "Powerbank",
-            "content": "<p>Have your own powerbank now! <a href=\"/collections/powerbank\" title=\"Powerbank\">SHOP NOW</a></p>"
+            "content": "<p>Powerbank'ını Şimdi Al! <a href=\"/collections/powerbank\" title=\"Powerbank\">Tıkla!</a></p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -626,8 +626,8 @@
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 55,
             "icon_width": 32,
-            "title": "Charging Cable",
-            "content": "<p>Have your own cable now! <a href=\"/collections/all\" title=\"All products\">SHOP NOW</a></p>"
+            "title": "Şarj Kablosu",
+            "content": "<p>Kablonu Burada bulabilirsin! <a href=\"/collections/all\" title=\"All products\">Tıkla!</a></p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -639,7 +639,7 @@
             "vertical_position_mobile": 33,
             "icon_width": 32,
             "title": "Earbuds",
-            "content": "<p>Have your own earbuds now! <a href=\"/collections/all\" title=\"All products\">SHOP NOW</a></p>"
+            "content": "<p>Kendi Earbuds'ını Al! <a href=\"/collections/all\" title=\"All products\">Tıkla!</a></p>"
           }
         }
       },
@@ -704,6 +704,7 @@
         "1664424486a2b084ab-0",
         "1664424486a2b084ab-1"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "images_layout": "stacked",
@@ -795,7 +796,7 @@
       ],
       "settings": {
         "full_width": false,
-        "product": "kl-01",
+        "product": "sjcam-sj6-pro-aksiyon-kamerasi",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
