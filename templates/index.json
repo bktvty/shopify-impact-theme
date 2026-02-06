@@ -304,7 +304,21 @@
       "type": "featured-collection",
       "settings": {
         "collection": "all-products",
-        "products": [],
+        "products": [
+          "bix-ps140k-140000mah-500w-ac-priz",
+          "ds153",
+          "ht105",
+          "kg1102",
+          "dlp2120b",
+          "sjcam-c200-pro-aksiyon-kamerasi-siyah",
+          "sjcam-c300-pocket-4k-wifi-aksiyon-kamerasi",
+          "sjcam-m50-fotokapan-kamera",
+          "sjcam-sj11-active-4k-aksiyon-kamerasi",
+          "sjcam-sj6-pro-aksiyon-kamerasi",
+          "sjcam-sj8-air-4k-aksiyon-kamerasi-siyah",
+          "sjcam-sj8-pro-aksiyon-kamerasi-siyah",
+          "elegant"
+        ],
         "full_width": true,
         "stack_products": true,
         "show_progress_bar": true,
