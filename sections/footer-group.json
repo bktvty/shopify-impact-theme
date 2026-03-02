@@ -129,13 +129,6 @@
             "content": ""
           }
         },
-        "links": {
-          "type": "links",
-          "settings": {
-            "menu": "footer",
-            "show_menu_title": true
-          }
-        },
         "text": {
           "type": "text",
           "settings": {
@@ -143,12 +136,19 @@
             "content": "<p>2021'de açılan Elektronik aksesuarları satan mağazadır.</p>",
             "enable_follow_on_shop": false
           }
+        },
+        "links_m99EzC": {
+          "type": "links",
+          "settings": {
+            "menu": "footer",
+            "show_menu_title": true
+          }
         }
       },
       "block_order": [
         "newsletter",
-        "links",
-        "text"
+        "text",
+        "links_m99EzC"
       ],
       "settings": {
         "show_social_media": true,
