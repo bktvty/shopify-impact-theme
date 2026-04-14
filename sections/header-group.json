@@ -14,6 +14,20 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_Dc9rG3": {
+          "type": "message",
+          "settings": {
+            "text": "Teklifleri Kaçırmayın!",
+            "url": ""
+          }
+        },
+        "message_77mFnV": {
+          "type": "message",
+          "settings": {
+            "text": "1.Siparişiniz için 10% MERHABA10 Kupon Kodu kullanınız!",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -23,6 +37,8 @@
         }
       },
       "block_order": [
+        "message_Dc9rG3",
+        "message_77mFnV",
         "message"
       ],
       "settings": {
