@@ -122,10 +122,62 @@
     "image-link-blocks": {
       "type": "image-link-blocks",
       "blocks": {
+        "item_PPYagU": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ismail_0001_WhatsApp_Image_2026-04-15_at_00_53_34_jpg.jpg",
+            "stretch_image": true,
+            "link_text": "Kameralar",
+            "link_url": "shopify://collections/kameralar",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_FB7B98": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ismail_0003_WhatsApp_Image_2026-04-15_at_00_56_16_jpg.jpg",
+            "stretch_image": true,
+            "link_text": "Kulaklıklar",
+            "link_url": "shopify://collections/headphones",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_9p3Pxf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ismail_0002_WhatsApp_Image_2026-04-15_at_00_57_21_jpg.jpg",
+            "stretch_image": true,
+            "link_text": "Hoparlörlar",
+            "link_url": "shopify://collections/speakers",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "item_MLzBqT": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ismail_0004_WhatsApp_Image_2026-04-15_at_00_56_45_jpg.jpg",
+            "stretch_image": true,
+            "link_text": "Powerbanklar",
+            "link_url": "shopify://collections/powerbank",
+            "background": "",
+            "text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/c1_d74ae2dc-4991-4f51-b004-8639a831bf45.png",
+            "image": "shopify://shop_images/Ismail_0000_WhatsApp_Image_2026-04-15_at_00_55_27_jpg.jpg",
             "stretch_image": true,
             "link_text": "Klavyeler",
             "link_url": "shopify://collections/keyboards",
@@ -150,6 +202,10 @@
         }
       },
       "block_order": [
+        "item_PPYagU",
+        "item_FB7B98",
+        "item_9p3Pxf",
+        "item_MLzBqT",
         "1664424046b00c932c-0",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
       ],
