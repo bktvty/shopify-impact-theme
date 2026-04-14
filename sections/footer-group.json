@@ -122,8 +122,8 @@
         "newsletter": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/6bd7fe1e7f3e67c8e2df06dbd5011d60.png",
-            "image_width": 50,
+            "image": "shopify://shop_images/c8a5db9795c56a158da13c0d198e57e6_ea76b366-df56-43c9-96ac-a217a311683c.png",
+            "image_width": 200,
             "heading_size": "h3",
             "title": "En Güncel fırsatlar için E-Posta'nızı giriniz!",
             "content": ""
