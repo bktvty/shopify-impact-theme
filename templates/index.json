@@ -148,19 +148,6 @@
             "overlay_opacity": 0
           }
         },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/c5_d0490d39-63c6-43cf-8a7d-08333dfae4a1.png",
-            "stretch_image": true,
-            "link_text": "USB Hubları",
-            "link_url": "shopify://collections/usb-hubs",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
           "type": "item",
           "settings": {
@@ -191,7 +178,6 @@
       "block_order": [
         "1664424046b00c932c-0",
         "1664424046b00c932c-1",
-        "1664424046b00c932c-3",
         "e4a0ef18-1856-4ddd-83d8-871a60d7acac",
         "1664424046b00c932c-2"
       ],
@@ -329,7 +315,7 @@
         "title": "Tavsiye Edilen Ürünler",
         "content": "",
         "link_url": "shopify://collections/all",
-        "link_text": "View all",
+        "link_text": "Hepsi Gör",
         "background": "",
         "background_gradient": "",
         "text_color": "",
