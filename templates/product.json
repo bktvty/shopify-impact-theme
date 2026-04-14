@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "1776204528da431207": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -44,6 +60,10 @@
         },
         "separator": {
           "type": "separator",
+          "settings": {}
+        },
+        "judge_me_reviews_all_reviews_text_hExUyX": {
+          "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
         },
         "description": {
@@ -86,6 +106,7 @@
         "rating",
         "payment_terms",
         "separator",
+        "judge_me_reviews_all_reviews_text_hExUyX",
         "description",
         "variant_picker",
         "quantity_selector",
@@ -107,6 +128,36 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "1776204590e56b13d9": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_hKEgei": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "no_reviews",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "empty_widget"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_hKEgei"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, #FFC266 0%, #FFA31A 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
       }
     },
     "related-products": {
@@ -133,7 +184,9 @@
     }
   },
   "order": [
+    "1776204528da431207",
     "main",
+    "1776204590e56b13d9",
     "related-products"
   ]
 }
